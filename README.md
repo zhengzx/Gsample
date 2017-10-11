@@ -7,7 +7,7 @@ It is used to test practical errors of convolution Gaussian sampling with differ
 
 Which means x1,x2 are sampled by discrete Gaussian sampling centered around 0 and standard deviations are s1,s2.
 
-And x is sampled by discrete Gaussian sampling centered around 0 and standard deviation is s=sqrt((ax1)^2+(bx2)^2).
+And x is sampled by discrete Gaussian sampling centered around 0 and standard deviation is s=sqrt((as1)^2+(bs2)^2).
 
 Let x'=ax1+bx2, we check the differences between the distribution of x' and x and denote it as the practical error of convolution Gaussian sampling. 
 
