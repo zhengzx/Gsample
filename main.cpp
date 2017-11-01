@@ -169,6 +169,7 @@ void compare(RR* gc, RR* gau, int rc) {
 		}
 
 	}
+	d_sd=d_sd/2;
 	// system("pause");
 	//cout <<setprecision(20)<< d_sd << " " << d_kl << " " << d_ml << " " << d_re << " " << endl;
 
