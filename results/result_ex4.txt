@@ -1,0 +1,742 @@
+Experiment 4: 
+t: 6 epsilon_t: -162.165
+precision: 53
+output_errors:
+Delta_SD: -51.9131  Delta_KL: -50.9131  Delta_KLL: -50.9131  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 54
+output_errors:
+Delta_SD: -57.5375  Delta_KL: -57.7656  Delta_KLL: -57.7656  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 55
+output_errors:
+Delta_SD: -54.0023  Delta_KL: -53.0023  Delta_KLL: -53.0023  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 56
+output_errors:
+Delta_SD: -59.6522  Delta_KL: -59.0791  Delta_KLL: -59.0791  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 57
+output_errors:
+Delta_SD: -55.9888  Delta_KL: -54.9888  Delta_KLL: -54.9888  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 58
+output_errors:
+Delta_SD: -55.9902  Delta_KL: -54.9902  Delta_KLL: -54.9902  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 59
+output_errors:
+Delta_SD: -62.5764  Delta_KL: -66.0684  Delta_KLL: -66.0684  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 60
+output_errors:
+Delta_SD: -58.8767  Delta_KL: -57.8767  Delta_KLL: -57.8767  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 61
+output_errors:
+Delta_SD: -64.7633  Delta_KL: -65.4431  Delta_KLL: -65.4431  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 62
+output_errors:
+Delta_SD: -58.6834  Delta_KL: -57.6834  Delta_KLL: -57.6834  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 63
+output_errors:
+Delta_SD: -61.9038  Delta_KL: -60.9038  Delta_KLL: -60.9038  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 64
+output_errors:
+Delta_SD: -63.5529  Delta_KL: -62.5529  Delta_KLL: -62.5529  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 65
+output_errors:
+Delta_SD: -62.9616  Delta_KL: -61.9616  Delta_KLL: -61.9616  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 66
+output_errors:
+Delta_SD: -63.9842  Delta_KL: -62.9842  Delta_KLL: -62.9842  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 67
+output_errors:
+Delta_SD: -65.3545  Delta_KL: -64.3545  Delta_KLL: -64.3545  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 68
+output_errors:
+Delta_SD: -71.9134  Delta_KL: -71.8919  Delta_KLL: -71.8919  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 69
+output_errors:
+Delta_SD: -68.5393  Delta_KL: -67.5393  Delta_KLL: -67.5393  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 70
+output_errors:
+Delta_SD: -68.3756  Delta_KL: -67.3756  Delta_KLL: -67.3756  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 71
+output_errors:
+Delta_SD: -70.6362  Delta_KL: -69.6362  Delta_KLL: -69.6362  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 72
+output_errors:
+Delta_SD: -70.9377  Delta_KL: -69.9377  Delta_KLL: -69.9377  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 73
+output_errors:
+Delta_SD: -71.9412  Delta_KL: -70.9412  Delta_KLL: -70.9412  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 74
+output_errors:
+Delta_SD: -77.5584  Delta_KL: -79.1755  Delta_KLL: -79.1755  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 75
+output_errors:
+Delta_SD: -72.9331  Delta_KL: -71.9331  Delta_KLL: -71.9331  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 76
+output_errors:
+Delta_SD: -74.0098  Delta_KL: -73.0098  Delta_KLL: -73.0098  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 77
+output_errors:
+Delta_SD: -80.4177  Delta_KL: -79.8793  Delta_KLL: -79.8793  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 78
+output_errors:
+Delta_SD: -75.9675  Delta_KL: -74.9675  Delta_KLL: -74.9675  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 79
+output_errors:
+Delta_SD: -76.9883  Delta_KL: -75.9883  Delta_KLL: -75.9883  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 80
+output_errors:
+Delta_SD: -78.9754  Delta_KL: -77.9754  Delta_KLL: -77.9754  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 81
+output_errors:
+Delta_SD: -84.3769  Delta_KL: -83.8521  Delta_KLL: -83.8521  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 82
+output_errors:
+Delta_SD: -79.1683  Delta_KL: -78.1683  Delta_KLL: -78.1683  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 83
+output_errors:
+Delta_SD: -86.7813  Delta_KL: -86.0342  Delta_KLL: -86.0342  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 84
+output_errors:
+Delta_SD: -82.8804  Delta_KL: -81.8804  Delta_KLL: -81.8804  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 85
+output_errors:
+Delta_SD: -89.4412  Delta_KL: -88.8361  Delta_KLL: -88.8361  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 86
+output_errors:
+Delta_SD: -85.6096  Delta_KL: -84.6096  Delta_KLL: -84.6096  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 87
+output_errors:
+Delta_SD: -86.5328  Delta_KL: -85.5328  Delta_KLL: -85.5328  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 88
+output_errors:
+Delta_SD: -91.3935  Delta_KL: -90.6468  Delta_KLL: -90.6468  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 89
+output_errors:
+Delta_SD: -86.9764  Delta_KL: -85.9764  Delta_KLL: -85.9764  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 90
+output_errors:
+Delta_SD: -94.0068  Delta_KL: -93.4518  Delta_KLL: -93.4518  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 91
+output_errors:
+Delta_SD: -89.9454  Delta_KL: -88.9454  Delta_KLL: -88.9454  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 92
+output_errors:
+Delta_SD: -95.5378  Delta_KL: -96.5383  Delta_KLL: -96.5383  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 93
+output_errors:
+Delta_SD: -95.5447  Delta_KL: -94.5462  Delta_KLL: -94.5462  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 94
+output_errors:
+Delta_SD: -97.273  Delta_KL: -96.3811  Delta_KLL: -96.3811  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 95
+output_errors:
+Delta_SD: -92.3907  Delta_KL: -91.3907  Delta_KLL: -91.3907  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 96
+output_errors:
+Delta_SD: -94.8832  Delta_KL: -93.8832  Delta_KLL: -93.8832  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 97
+output_errors:
+Delta_SD: -100.411  Delta_KL: -99.7711  Delta_KLL: -99.7711  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 98
+output_errors:
+Delta_SD: -96.0093  Delta_KL: -95.0093  Delta_KLL: -95.0093  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 99
+output_errors:
+Delta_SD: -98.5947  Delta_KL: -97.5947  Delta_KLL: -97.5947  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 100
+output_errors:
+Delta_SD: -99.5885  Delta_KL: -98.5885  Delta_KLL: -98.5885  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 101
+output_errors:
+Delta_SD: -98.4008  Delta_KL: -97.4008  Delta_KLL: -97.4008  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 102
+output_errors:
+Delta_SD: -105.969  Delta_KL: -107.332  Delta_KLL: -107.332  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 103
+output_errors:
+Delta_SD: -100.965  Delta_KL: -99.9649  Delta_KLL: -99.9649  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 104
+output_errors:
+Delta_SD: -103.55  Delta_KL: -102.55  Delta_KLL: -102.55  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 105
+output_errors:
+Delta_SD: -109.129  Delta_KL: -109.916  Delta_KLL: -109.916  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 106
+output_errors:
+Delta_SD: -104.99  Delta_KL: -103.99  Delta_KLL: -103.99  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 107
+output_errors:
+Delta_SD: -104.974  Delta_KL: -103.974  Delta_KLL: -103.974  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 108
+output_errors:
+Delta_SD: -111.225  Delta_KL: -110.644  Delta_KLL: -110.644  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 109
+output_errors:
+Delta_SD: -106.39  Delta_KL: -105.39  Delta_KLL: -105.39  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 110
+output_errors:
+Delta_SD: -109.705  Delta_KL: -108.705  Delta_KLL: -108.705  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 111
+output_errors:
+Delta_SD: -114.965  Delta_KL: -115.294  Delta_KLL: -115.294  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 112
+output_errors:
+Delta_SD: -109.648  Delta_KL: -108.648  Delta_KLL: -108.648  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 113
+output_errors:
+Delta_SD: -111.991  Delta_KL: -110.991  Delta_KLL: -110.991  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 114
+output_errors:
+Delta_SD: -117.437  Delta_KL: -116.888  Delta_KLL: -116.888  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 115
+output_errors:
+Delta_SD: -113.941  Delta_KL: -112.941  Delta_KLL: -112.941  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 116
+output_errors:
+Delta_SD: -115.572  Delta_KL: -114.572  Delta_KLL: -114.572  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 117
+output_errors:
+Delta_SD: -116.044  Delta_KL: -115.044  Delta_KLL: -115.044  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 118
+output_errors:
+Delta_SD: -120.793  Delta_KL: -119.822  Delta_KLL: -119.822  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 119
+output_errors:
+Delta_SD: -117.019  Delta_KL: -116.019  Delta_KLL: -116.019  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 120
+output_errors:
+Delta_SD: -117.971  Delta_KL: -116.971  Delta_KLL: -116.971  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 121
+output_errors:
+Delta_SD: -125.256  Delta_KL: -131.729  Delta_KLL: -131.729  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 122
+output_errors:
+Delta_SD: -121.531  Delta_KL: -120.531  Delta_KLL: -120.531  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 123
+output_errors:
+Delta_SD: -126.966  Delta_KL: -128.347  Delta_KLL: -128.347  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 124
+output_errors:
+Delta_SD: -123.441  Delta_KL: -122.441  Delta_KLL: -122.441  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 125
+output_errors:
+Delta_SD: -124.524  Delta_KL: -123.524  Delta_KLL: -123.524  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 126
+output_errors:
+Delta_SD: -123.988  Delta_KL: -122.988  Delta_KLL: -122.988  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 127
+output_errors:
+Delta_SD: -125.952  Delta_KL: -124.952  Delta_KLL: -124.952  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 128
+output_errors:
+Delta_SD: -130.441  Delta_KL: -129.444  Delta_KLL: -129.444  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 129
+output_errors:
+Delta_SD: -132.715  Delta_KL: -131.978  Delta_KLL: -131.978  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 130
+output_errors:
+Delta_SD: -134.365  Delta_KL: -134.446  Delta_KLL: -134.446  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 131
+output_errors:
+Delta_SD: -129.358  Delta_KL: -128.358  Delta_KLL: -128.358  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 132
+output_errors:
+Delta_SD: -129.957  Delta_KL: -128.957  Delta_KLL: -128.957  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 133
+output_errors:
+Delta_SD: -130.943  Delta_KL: -129.943  Delta_KLL: -129.943  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 134
+output_errors:
+Delta_SD: -133.579  Delta_KL: -132.579  Delta_KLL: -132.579  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 135
+output_errors:
+Delta_SD: -132.992  Delta_KL: -131.992  Delta_KLL: -131.992  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 136
+output_errors:
+Delta_SD: -139.4  Delta_KL: -138.48  Delta_KLL: -138.48  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 137
+output_errors:
+Delta_SD: -134.007  Delta_KL: -133.007  Delta_KLL: -133.007  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 138
+output_errors:
+Delta_SD: -135.945  Delta_KL: -134.945  Delta_KLL: -134.945  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 139
+output_errors:
+Delta_SD: -136.911  Delta_KL: -135.911  Delta_KLL: -135.911  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 140
+output_errors:
+Delta_SD: -138.933  Delta_KL: -137.933  Delta_KLL: -137.933  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 141
+output_errors:
+Delta_SD: -138.649  Delta_KL: -137.649  Delta_KLL: -137.649  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 142
+output_errors:
+Delta_SD: -141.71  Delta_KL: -140.71  Delta_KLL: -140.71  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 143
+output_errors:
+Delta_SD: -140.438  Delta_KL: -139.438  Delta_KLL: -139.438  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 144
+output_errors:
+Delta_SD: -141.023  Delta_KL: -140.023  Delta_KLL: -140.023  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 145
+output_errors:
+Delta_SD: -142.607  Delta_KL: -141.607  Delta_KLL: -141.607  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 146
+output_errors:
+Delta_SD: -149.518  Delta_KL: -148.847  Delta_KLL: -148.847  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 147
+output_errors:
+Delta_SD: -144.397  Delta_KL: -143.397  Delta_KLL: -143.397  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 148
+output_errors:
+Delta_SD: -144.691  Delta_KL: -143.691  Delta_KLL: -143.691  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 149
+output_errors:
+Delta_SD: -152.748  Delta_KL: -151.885  Delta_KLL: -151.885  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 150
+output_errors:
+Delta_SD: -147.404  Delta_KL: -146.404  Delta_KLL: -146.404  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 151
+output_errors:
+Delta_SD: -149.919  Delta_KL: -148.919  Delta_KLL: -148.919  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 152
+output_errors:
+Delta_SD: -149.936  Delta_KL: -148.936  Delta_KLL: -148.936  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 153
+output_errors:
+Delta_SD: -156.696  Delta_KL: -156.029  Delta_KLL: -156.029  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 154
+output_errors:
+Delta_SD: -152.289  Delta_KL: -151.289  Delta_KLL: -151.289  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 155
+output_errors:
+Delta_SD: -153.951  Delta_KL: -152.951  Delta_KLL: -152.951  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 156
+output_errors:
+Delta_SD: -155.639  Delta_KL: -154.639  Delta_KLL: -154.639  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 157
+output_errors:
+Delta_SD: -160.792  Delta_KL: -160.518  Delta_KLL: -160.518  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 158
+output_errors:
+Delta_SD: -155.375  Delta_KL: -154.375  Delta_KLL: -154.375  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 159
+output_errors:
+Delta_SD: -156.95  Delta_KL: -155.951  Delta_KLL: -155.951  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 160
+output_errors:
+Delta_SD: -157.933  Delta_KL: -156.935  Delta_KLL: -156.935  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 161
+output_errors:
+Delta_SD: -158.38  Delta_KL: -157.38  Delta_KLL: -157.38  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 162
+output_errors:
+Delta_SD: -161.005  Delta_KL: -160.023  Delta_KLL: -160.023  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 163
+output_errors:
+Delta_SD: -161.958  Delta_KL: -160.958  Delta_KLL: -160.958  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 164
+output_errors:
+Delta_SD: -161.885  Delta_KL: -160.92  Delta_KLL: -160.92  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 165
+output_errors:
+Delta_SD: -164.514  Delta_KL: -163.743  Delta_KLL: -163.743  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 166
+output_errors:
+Delta_SD: -166.898  Delta_KL: -167.984  Delta_KLL: -167.984  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 167
+output_errors:
+Delta_SD: -164.745  Delta_KL: -164.016  Delta_KLL: -164.016  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 168
+output_errors:
+Delta_SD: -166.007  Delta_KL: -165.007  Delta_KLL: -165.007  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 169
+output_errors:
+Delta_SD: -166.394  Delta_KL: -165.394  Delta_KLL: -165.394  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 170
+output_errors:
+Delta_SD: -167.035  Delta_KL: -168.683  Delta_KLL: -168.683  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 171
+output_errors:
+Delta_SD: -166.729  Delta_KL: -167.372  Delta_KLL: -167.372  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 172
+output_errors:
+Delta_SD: -167.181  Delta_KL: -170.02  Delta_KLL: -170.02  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 173
+output_errors:
+Delta_SD: -167.249  Delta_KL: -171.559  Delta_KLL: -171.559  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 174
+output_errors:
+Delta_SD: -167.243  Delta_KL: -171.338  Delta_KLL: -171.338  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 175
+output_errors:
+Delta_SD: -167.3  Delta_KL: -172.995  Delta_KLL: -172.995  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 176
+output_errors:
+Delta_SD: -167.282  Delta_KL: -174.714  Delta_KLL: -174.714  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 177
+output_errors:
+Delta_SD: -167.293  Delta_KL: -173.994  Delta_KLL: -173.994  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 178
+output_errors:
+Delta_SD: -167.283  Delta_KL: -175.339  Delta_KLL: -175.339  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 179
+output_errors:
+Delta_SD: -167.286  Delta_KL: -182.588  Delta_KLL: -182.588  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 180
+output_errors:
+Delta_SD: -167.286  Delta_KL: -177.986  Delta_KLL: -177.986  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 181
+output_errors:
+Delta_SD: -167.286  Delta_KL: -178.013  Delta_KLL: -178.013  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 182
+output_errors:
+Delta_SD: -167.286  Delta_KL: -178.966  Delta_KLL: -178.966  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 183
+output_errors:
+Delta_SD: -167.286  Delta_KL: -181.004  Delta_KLL: -181.004  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 184
+output_errors:
+Delta_SD: -167.286  Delta_KL: -180.372  Delta_KLL: -180.372  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 185
+output_errors:
+Delta_SD: -167.286  Delta_KL: -182.313  Delta_KLL: -182.313  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 186
+output_errors:
+Delta_SD: -167.286  Delta_KL: -188.638  Delta_KLL: -188.638  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 187
+output_errors:
+Delta_SD: -167.286  Delta_KL: -184.011  Delta_KLL: -184.011  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 188
+output_errors:
+Delta_SD: -167.286  Delta_KL: -185.105  Delta_KLL: -185.105  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 189
+output_errors:
+Delta_SD: -167.286  Delta_KL: -188.854  Delta_KLL: -188.854  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 190
+output_errors:
+Delta_SD: -167.286  Delta_KL: -186.37  Delta_KLL: -186.37  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 191
+output_errors:
+Delta_SD: -167.286  Delta_KL: -189.051  Delta_KLL: -189.051  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 192
+output_errors:
+Delta_SD: -167.286  Delta_KL: -192.539  Delta_KLL: -192.539  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 193
+output_errors:
+Delta_SD: -167.286  Delta_KL: -190.645  Delta_KLL: -190.645  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 194
+output_errors:
+Delta_SD: -167.286  Delta_KL: -188.518  Delta_KLL: -188.518  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 195
+output_errors:
+Delta_SD: -167.286  Delta_KL: -189.072  Delta_KLL: -189.072  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 196
+output_errors:
+Delta_SD: -167.286  Delta_KL: -188.785  Delta_KLL: -188.785  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 197
+output_errors:
+Delta_SD: -167.286  Delta_KL: -188.799  Delta_KLL: -188.799  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 198
+output_errors:
+Delta_SD: -167.286  Delta_KL: -188.901  Delta_KLL: -188.901  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 199
+output_errors:
+Delta_SD: -167.286  Delta_KL: -188.89  Delta_KLL: -188.89  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+
+precision: 200
+output_errors:
+Delta_SD: -167.286  Delta_KL: -188.895  Delta_KLL: -188.895  Delta_RE: -21.8762  Delta_RE's x: -1018,1018  Delta_ML: -21.8762  Delta_ML's x: -1018,1018
+
+

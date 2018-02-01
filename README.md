@@ -13,17 +13,16 @@ Let x'=ax1+bx2, we check the differences between the distribution of x' and x an
 
 More specifically, 
 
-In example 1: s1=s2=34, a=b=1
+In example 1: a=11,b=1,s1=s2=19.53sqrt(2pi),t=3-8 ,pre=53-200 (experiment about \Delta_{SD} and \Delta_{KL})
 
-In example 2: s1=s2=19.53, a=11, b=1
+In example 2: a=4,b=3,s1=s2=34,t=3-8,pre=53-200 (experiment about \Delta_{RE} and \Delta_{ML})
 
-In example 3: s1=s2=19.53, a=1,...,11, b=1
+In example 3: a=11,b=1,s1=s2=19.53sqrt(2pi),t=5.35 ,pre=53-200 ([PDG14]: pre=72, Modified [PDG14]: pre=130)
 
-In example 4: s1=s2=215.73/7, a=7, b=1
+In example 4: a=4,b=3,s1=s2=34,t=6,pre=53-200 ([MW17]: pre=60, \Delta_{ML}\le 2^{-55}  Modified [MW17]: pre=113, \Delta_{KL}\le 2^{-110})
 
-In example 5: s1=s2=34, a=4, b=3
 
-Other parameters are: sp stands for the smoothing parameter, t defines the scope for the variable x as [-ts,ts], and precision means the precision used in calculating.
+Other parameters except a,b,s1,s2 are:  t defines the scope for the variable x as [-ts,ts], and pre (precision) means the precision used in calculating.
 
 All examples are independent and can be chosen to test or not by switches, for example:
 
