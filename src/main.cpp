@@ -197,7 +197,7 @@ void compare(RR* gau, RR* gc, int rc,int r1) {
 
 	if (outputfile == 1)
 	{
-		out << "Delta_SD: " << log(d_sd) / log(2) << "  Delta_KL: " << log(abs(d_kl)) / log(2) << "  Delta_KLL: " << log(abs(d_kll)) / log(2)   << "  Delta_RE: " << log(d_re) / log(2) << "  Delta_RE's x: " << ren - rc / 2 << "," << (ren2 - rc / 2) << "  Delta_ML: " << log(d_ml) / log(2) << "  Delta_ML's x: " << mln - rc / 2 << "," << (mln2 - rc / 2) << endl;
+		out << "Delta_SD: " << log(d_sd) / log(2) << "  Delta_KL: " << log(abs(d_kl)) / log(2)    << "  Delta_RE: " << log(d_re) / log(2) << "  Delta_RE's x: " << ren - rc / 2 << "," << (ren2 - rc / 2) << "  Delta_ML: " << log(d_ml) / log(2) << "  Delta_ML's x: " << mln - rc / 2 << "," << (mln2 - rc / 2) << endl;
 		out << endl;
 	}
 	cout << "Delta_SD: " << log(d_sd) / log(2) << "  Delta_KL: " << log(abs(d_kl)) / log(2) << "  Delta_KLL: " << log(abs(d_kll)) / log(2)   << "  Delta_RE: " << log(d_re) / log(2) << "  Delta_RE's x: " << ren - rc / 2 << "," << (ren2 - rc / 2) << "  Delta_ML: " << log(d_ml) / log(2) << "  Delta_ML's x: " << mln - rc / 2 << "," << (mln2 - rc / 2) << endl;
@@ -253,16 +253,16 @@ int main() {
 		double po;
 		conv(po, PI);
 
-		s0 = 19.53*sqrt(2 * po);
-		s1 = to_RR(s0);
-		s2 = to_RR(s0);
-
+	
 
 		a = 11;
 		b = 1;
 
-		s_new = sqrt(a*a*s1*s1 + b*b*s2*s2);
-		
+		//s_new = sqrt(a*a*s1*s1 + b*b*s2*s2);
+		//s_new = sqrt(to_RR(11)*to_RR(11)*to_RR(19.53)*to_RR(19.53)*  2 * PI  + to_RR(19.53)*to_RR(19.53) * 2 * PI );
+		s1 = sqrt(  PI/log(to_RR(2)) / to_RR(a*a+b*b))*to_RR(254);
+		s2 = sqrt(PI / log(to_RR(2)) / to_RR(a*a + b*b))*to_RR(254);
+		s_new = sqrt(PI / log(to_RR(2))  )*to_RR(254);
 
 		for (int j = 300; j <= 800; j += 10) {
 
@@ -352,7 +352,7 @@ int main() {
 		a = 4;
 		b = 3;
 
-		s_new = sqrt(a*a*s1*s1 + b*b*s2*s2);
+		s_new = sqrt(to_RR(a)*to_RR(a)*s1*s1 + to_RR(b)*to_RR(b)*s2*s2);
 
 
 		for (int j = 300; j <= 800; j += 10) {
@@ -435,18 +435,18 @@ int main() {
 		double po;
 		conv(po, PI);
 
-		s0 = 19.53*sqrt(2 * po);
-		s1 = to_RR(s0);
-		s2 = to_RR(s0);
+	 
 
 
 		a = 11;
 		b = 1;
 
-		s_new = sqrt(a*a*s1*s1 + b*b*s2*s2);
+		s1 = sqrt(PI / log(to_RR(2)) / to_RR(a*a + b*b))*to_RR(254);
+		s2 = sqrt(PI / log(to_RR(2)) / to_RR(a*a + b*b))*to_RR(254);
+		s_new = sqrt(PI / log(to_RR(2)))*to_RR(254);
 
 
-		for (int j = 535; j <= 535; j += 10) {
+		for (int j = 535; j <= 535; j += 1) {
 
 			t = to_RR(j / 100.0);
 
@@ -533,7 +533,7 @@ int main() {
 		a = 4;
 		b = 3;
 
-		s_new = sqrt(a*a*s1*s1 + b*b*s2*s2);
+		s_new = sqrt(to_RR(a)*to_RR(a)*s1*s1 + to_RR(b)*to_RR(b)*s2*s2);
 
 
 		for (int j = 600; j <= 600; j += 10) {
