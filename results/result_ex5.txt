@@ -1,0 +1,947 @@
+Experiment 5: 
+t: 6 epsilon_t: -162.1649651
+precision: 53
+output_errors:
+Renyi_a: 10
+Delta_SD: -52.1149  Delta_KL: -51.1149  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -50.9629
+
+Renyi_a: 20
+Delta_SD: -52.1149  Delta_KL: -51.1149  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -51.0409
+
+Renyi_a: 30
+Delta_SD: -52.1149  Delta_KL: -51.1149  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -51.066
+
+Renyi_a: 40
+Delta_SD: -52.1149  Delta_KL: -51.1149  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -51.0784
+
+Renyi_a: 50
+Delta_SD: -52.1149  Delta_KL: -51.1149  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -51.0857
+
+Renyi_a: 60
+Delta_SD: -52.1149  Delta_KL: -51.1149  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -51.0906
+
+Renyi_a: 70
+Delta_SD: -52.1149  Delta_KL: -51.1149  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -51.0941
+
+Renyi_a: 80
+Delta_SD: -52.1149  Delta_KL: -51.1149  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -51.0967
+
+Renyi_a: 90
+Delta_SD: -52.1149  Delta_KL: -51.1149  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -51.0988
+
+Renyi_a: 100
+Delta_SD: -52.1149  Delta_KL: -51.1149  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -51.1004
+
+Renyi_a: 110
+Delta_SD: -52.1149  Delta_KL: -51.1149  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -51.1017
+
+Renyi_a: 120
+Delta_SD: -52.1149  Delta_KL: -51.1149  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -51.1028
+
+Renyi_a: 130
+Delta_SD: -52.1149  Delta_KL: -51.1149  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -51.1037
+
+Renyi_a: 140
+Delta_SD: -52.1149  Delta_KL: -51.1149  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -51.1045
+
+Renyi_a: 150
+Delta_SD: -52.1149  Delta_KL: -51.1149  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -51.1052
+
+Renyi_a: 160
+Delta_SD: -52.1149  Delta_KL: -51.1149  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -51.1058
+
+Renyi_a: 170
+Delta_SD: -52.1149  Delta_KL: -51.1149  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -51.1064
+
+Renyi_a: 180
+Delta_SD: -52.1149  Delta_KL: -51.1149  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -51.1068
+
+Renyi_a: 190
+Delta_SD: -52.1149  Delta_KL: -51.1149  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -51.1073
+
+Renyi_a: 200
+Delta_SD: -52.1149  Delta_KL: -51.1149  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -51.1076
+
+
+precision: 63
+output_errors:
+Renyi_a: 10
+Delta_SD: -60.3978  Delta_KL: -59.3978  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -59.2458
+
+Renyi_a: 20
+Delta_SD: -60.3978  Delta_KL: -59.3978  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -59.3238
+
+Renyi_a: 30
+Delta_SD: -60.3978  Delta_KL: -59.3978  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -59.3489
+
+Renyi_a: 40
+Delta_SD: -60.3978  Delta_KL: -59.3978  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -59.3613
+
+Renyi_a: 50
+Delta_SD: -60.3978  Delta_KL: -59.3978  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -59.3687
+
+Renyi_a: 60
+Delta_SD: -60.3978  Delta_KL: -59.3978  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -59.3736
+
+Renyi_a: 70
+Delta_SD: -60.3978  Delta_KL: -59.3978  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -59.3771
+
+Renyi_a: 80
+Delta_SD: -60.3978  Delta_KL: -59.3978  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -59.3797
+
+Renyi_a: 90
+Delta_SD: -60.3978  Delta_KL: -59.3978  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -59.3817
+
+Renyi_a: 100
+Delta_SD: -60.3978  Delta_KL: -59.3978  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -59.3833
+
+Renyi_a: 110
+Delta_SD: -60.3978  Delta_KL: -59.3978  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -59.3846
+
+Renyi_a: 120
+Delta_SD: -60.3978  Delta_KL: -59.3978  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -59.3857
+
+Renyi_a: 130
+Delta_SD: -60.3978  Delta_KL: -59.3978  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -59.3867
+
+Renyi_a: 140
+Delta_SD: -60.3978  Delta_KL: -59.3978  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -59.3875
+
+Renyi_a: 150
+Delta_SD: -60.3978  Delta_KL: -59.3978  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -59.3882
+
+Renyi_a: 160
+Delta_SD: -60.3978  Delta_KL: -59.3978  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -59.3888
+
+Renyi_a: 170
+Delta_SD: -60.3978  Delta_KL: -59.3978  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -59.3893
+
+Renyi_a: 180
+Delta_SD: -60.3978  Delta_KL: -59.3978  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -59.3898
+
+Renyi_a: 190
+Delta_SD: -60.3978  Delta_KL: -59.3978  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -59.3902
+
+Renyi_a: 200
+Delta_SD: -60.3978  Delta_KL: -59.3978  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -59.3906
+
+
+precision: 73
+output_errors:
+Renyi_a: 10
+Delta_SD: -70.9668  Delta_KL: -69.9668  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -69.8148
+
+Renyi_a: 20
+Delta_SD: -70.9668  Delta_KL: -69.9668  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -69.8928
+
+Renyi_a: 30
+Delta_SD: -70.9668  Delta_KL: -69.9668  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -69.9179
+
+Renyi_a: 40
+Delta_SD: -70.9668  Delta_KL: -69.9668  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -69.9303
+
+Renyi_a: 50
+Delta_SD: -70.9668  Delta_KL: -69.9668  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -69.9377
+
+Renyi_a: 60
+Delta_SD: -70.9668  Delta_KL: -69.9668  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -69.9426
+
+Renyi_a: 70
+Delta_SD: -70.9668  Delta_KL: -69.9668  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -69.9461
+
+Renyi_a: 80
+Delta_SD: -70.9668  Delta_KL: -69.9668  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -69.9487
+
+Renyi_a: 90
+Delta_SD: -70.9668  Delta_KL: -69.9668  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -69.9507
+
+Renyi_a: 100
+Delta_SD: -70.9668  Delta_KL: -69.9668  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -69.9523
+
+Renyi_a: 110
+Delta_SD: -70.9668  Delta_KL: -69.9668  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -69.9537
+
+Renyi_a: 120
+Delta_SD: -70.9668  Delta_KL: -69.9668  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -69.9548
+
+Renyi_a: 130
+Delta_SD: -70.9668  Delta_KL: -69.9668  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -69.9557
+
+Renyi_a: 140
+Delta_SD: -70.9668  Delta_KL: -69.9668  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -69.9565
+
+Renyi_a: 150
+Delta_SD: -70.9668  Delta_KL: -69.9668  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -69.9572
+
+Renyi_a: 160
+Delta_SD: -70.9668  Delta_KL: -69.9668  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -69.9578
+
+Renyi_a: 170
+Delta_SD: -70.9668  Delta_KL: -69.9668  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -69.9583
+
+Renyi_a: 180
+Delta_SD: -70.9668  Delta_KL: -69.9668  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -69.9588
+
+Renyi_a: 190
+Delta_SD: -70.9668  Delta_KL: -69.9668  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -69.9592
+
+Renyi_a: 200
+Delta_SD: -70.9668  Delta_KL: -69.9668  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -69.9596
+
+
+precision: 83
+output_errors:
+Renyi_a: 10
+Delta_SD: -86.5706  Delta_KL: -85.7061  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -85.5541
+
+Renyi_a: 20
+Delta_SD: -86.5706  Delta_KL: -85.7061  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -85.6321
+
+Renyi_a: 30
+Delta_SD: -86.5706  Delta_KL: -85.7061  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -85.6572
+
+Renyi_a: 40
+Delta_SD: -86.5706  Delta_KL: -85.7061  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -85.6696
+
+Renyi_a: 50
+Delta_SD: -86.5706  Delta_KL: -85.7061  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -85.677
+
+Renyi_a: 60
+Delta_SD: -86.5706  Delta_KL: -85.7061  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -85.6819
+
+Renyi_a: 70
+Delta_SD: -86.5706  Delta_KL: -85.7061  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -85.6854
+
+Renyi_a: 80
+Delta_SD: -86.5706  Delta_KL: -85.7061  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -85.688
+
+Renyi_a: 90
+Delta_SD: -86.5706  Delta_KL: -85.7061  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -85.69
+
+Renyi_a: 100
+Delta_SD: -86.5706  Delta_KL: -85.7061  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -85.6917
+
+Renyi_a: 110
+Delta_SD: -86.5706  Delta_KL: -85.7061  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -85.693
+
+Renyi_a: 120
+Delta_SD: -86.5706  Delta_KL: -85.7061  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -85.6941
+
+Renyi_a: 130
+Delta_SD: -86.5706  Delta_KL: -85.7061  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -85.695
+
+Renyi_a: 140
+Delta_SD: -86.5706  Delta_KL: -85.7061  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -85.6958
+
+Renyi_a: 150
+Delta_SD: -86.5706  Delta_KL: -85.7061  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -85.6965
+
+Renyi_a: 160
+Delta_SD: -86.5706  Delta_KL: -85.7061  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -85.6971
+
+Renyi_a: 170
+Delta_SD: -86.5706  Delta_KL: -85.7061  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -85.6976
+
+Renyi_a: 180
+Delta_SD: -86.5706  Delta_KL: -85.7061  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -85.6981
+
+Renyi_a: 190
+Delta_SD: -86.5706  Delta_KL: -85.7061  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -85.6985
+
+Renyi_a: 200
+Delta_SD: -86.5706  Delta_KL: -85.7061  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -85.6989
+
+
+precision: 93
+output_errors:
+Renyi_a: 10
+Delta_SD: -89.6877  Delta_KL: -91.1104  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -90.9584
+
+Renyi_a: 20
+Delta_SD: -89.6877  Delta_KL: -91.1104  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -91.0364
+
+Renyi_a: 30
+Delta_SD: -89.6877  Delta_KL: -91.1104  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -91.0615
+
+Renyi_a: 40
+Delta_SD: -89.6877  Delta_KL: -91.1104  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -91.0739
+
+Renyi_a: 50
+Delta_SD: -89.6877  Delta_KL: -91.1104  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -91.0812
+
+Renyi_a: 60
+Delta_SD: -89.6877  Delta_KL: -91.1104  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -91.0861
+
+Renyi_a: 70
+Delta_SD: -89.6877  Delta_KL: -91.1104  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -91.0896
+
+Renyi_a: 80
+Delta_SD: -89.6877  Delta_KL: -91.1104  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -91.0922
+
+Renyi_a: 90
+Delta_SD: -89.6877  Delta_KL: -91.1104  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -91.0943
+
+Renyi_a: 100
+Delta_SD: -89.6877  Delta_KL: -91.1104  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -91.0959
+
+Renyi_a: 110
+Delta_SD: -89.6877  Delta_KL: -91.1104  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -91.0972
+
+Renyi_a: 120
+Delta_SD: -89.6877  Delta_KL: -91.1104  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -91.0983
+
+Renyi_a: 130
+Delta_SD: -89.6877  Delta_KL: -91.1104  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -91.0992
+
+Renyi_a: 140
+Delta_SD: -89.6877  Delta_KL: -91.1104  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -91.1
+
+Renyi_a: 150
+Delta_SD: -89.6877  Delta_KL: -91.1104  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -91.1007
+
+Renyi_a: 160
+Delta_SD: -89.6877  Delta_KL: -91.1104  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -91.1013
+
+Renyi_a: 170
+Delta_SD: -89.6877  Delta_KL: -91.1104  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -91.1019
+
+Renyi_a: 180
+Delta_SD: -89.6877  Delta_KL: -91.1104  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -91.1023
+
+Renyi_a: 190
+Delta_SD: -89.6877  Delta_KL: -91.1104  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -91.1028
+
+Renyi_a: 200
+Delta_SD: -89.6877  Delta_KL: -91.1104  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -91.1032
+
+
+precision: 103
+output_errors:
+Renyi_a: 10
+Delta_SD: -89.6937  Delta_KL: -98.6718  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -98.5198
+
+Renyi_a: 20
+Delta_SD: -89.6937  Delta_KL: -98.6718  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -98.5978
+
+Renyi_a: 30
+Delta_SD: -89.6937  Delta_KL: -98.6718  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -98.6229
+
+Renyi_a: 40
+Delta_SD: -89.6937  Delta_KL: -98.6718  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -98.6353
+
+Renyi_a: 50
+Delta_SD: -89.6937  Delta_KL: -98.6718  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -98.6427
+
+Renyi_a: 60
+Delta_SD: -89.6937  Delta_KL: -98.6718  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -98.6476
+
+Renyi_a: 70
+Delta_SD: -89.6937  Delta_KL: -98.6718  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -98.6511
+
+Renyi_a: 80
+Delta_SD: -89.6937  Delta_KL: -98.6718  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -98.6537
+
+Renyi_a: 90
+Delta_SD: -89.6937  Delta_KL: -98.6718  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -98.6557
+
+Renyi_a: 100
+Delta_SD: -89.6937  Delta_KL: -98.6718  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -98.6573
+
+Renyi_a: 110
+Delta_SD: -89.6937  Delta_KL: -98.6718  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -98.6587
+
+Renyi_a: 120
+Delta_SD: -89.6937  Delta_KL: -98.6718  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -98.6598
+
+Renyi_a: 130
+Delta_SD: -89.6937  Delta_KL: -98.6718  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -98.6607
+
+Renyi_a: 140
+Delta_SD: -89.6937  Delta_KL: -98.6718  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -98.6615
+
+Renyi_a: 150
+Delta_SD: -89.6937  Delta_KL: -98.6718  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -98.6622
+
+Renyi_a: 160
+Delta_SD: -89.6937  Delta_KL: -98.6718  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -98.6628
+
+Renyi_a: 170
+Delta_SD: -89.6937  Delta_KL: -98.6718  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -98.6633
+
+Renyi_a: 180
+Delta_SD: -89.6937  Delta_KL: -98.6718  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -98.6638
+
+Renyi_a: 190
+Delta_SD: -89.6937  Delta_KL: -98.6718  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -98.6642
+
+Renyi_a: 200
+Delta_SD: -89.6937  Delta_KL: -98.6718  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -98.6646
+
+
+precision: 113
+output_errors:
+Renyi_a: 10
+Delta_SD: -89.6937  Delta_KL: -111.412  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -111.26
+
+Renyi_a: 20
+Delta_SD: -89.6937  Delta_KL: -111.412  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -111.338
+
+Renyi_a: 30
+Delta_SD: -89.6937  Delta_KL: -111.412  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -111.363
+
+Renyi_a: 40
+Delta_SD: -89.6937  Delta_KL: -111.412  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -111.376
+
+Renyi_a: 50
+Delta_SD: -89.6937  Delta_KL: -111.412  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -111.383
+
+Renyi_a: 60
+Delta_SD: -89.6937  Delta_KL: -111.412  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -111.388
+
+Renyi_a: 70
+Delta_SD: -89.6937  Delta_KL: -111.412  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -111.391
+
+Renyi_a: 80
+Delta_SD: -89.6937  Delta_KL: -111.412  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -111.394
+
+Renyi_a: 90
+Delta_SD: -89.6937  Delta_KL: -111.412  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -111.396
+
+Renyi_a: 100
+Delta_SD: -89.6937  Delta_KL: -111.412  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -111.398
+
+Renyi_a: 110
+Delta_SD: -89.6937  Delta_KL: -111.412  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -111.399
+
+Renyi_a: 120
+Delta_SD: -89.6937  Delta_KL: -111.412  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -111.4
+
+Renyi_a: 130
+Delta_SD: -89.6937  Delta_KL: -111.412  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -111.401
+
+Renyi_a: 140
+Delta_SD: -89.6937  Delta_KL: -111.412  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -111.402
+
+Renyi_a: 150
+Delta_SD: -89.6937  Delta_KL: -111.412  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -111.403
+
+Renyi_a: 160
+Delta_SD: -89.6937  Delta_KL: -111.412  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -111.403
+
+Renyi_a: 170
+Delta_SD: -89.6937  Delta_KL: -111.412  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -111.404
+
+Renyi_a: 180
+Delta_SD: -89.6937  Delta_KL: -111.412  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -111.404
+
+Renyi_a: 190
+Delta_SD: -89.6937  Delta_KL: -111.412  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -111.405
+
+Renyi_a: 200
+Delta_SD: -89.6937  Delta_KL: -111.412  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -111.405
+
+
+precision: 123
+output_errors:
+Renyi_a: 10
+Delta_SD: -89.6937  Delta_KL: -121.138  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -120.986
+
+Renyi_a: 20
+Delta_SD: -89.6937  Delta_KL: -121.138  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -121.064
+
+Renyi_a: 30
+Delta_SD: -89.6937  Delta_KL: -121.138  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -121.089
+
+Renyi_a: 40
+Delta_SD: -89.6937  Delta_KL: -121.138  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -121.102
+
+Renyi_a: 50
+Delta_SD: -89.6937  Delta_KL: -121.138  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -121.109
+
+Renyi_a: 60
+Delta_SD: -89.6937  Delta_KL: -121.138  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -121.114
+
+Renyi_a: 70
+Delta_SD: -89.6937  Delta_KL: -121.138  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -121.117
+
+Renyi_a: 80
+Delta_SD: -89.6937  Delta_KL: -121.138  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -121.12
+
+Renyi_a: 90
+Delta_SD: -89.6937  Delta_KL: -121.138  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -121.122
+
+Renyi_a: 100
+Delta_SD: -89.6937  Delta_KL: -121.138  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -121.124
+
+Renyi_a: 110
+Delta_SD: -89.6937  Delta_KL: -121.138  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -121.125
+
+Renyi_a: 120
+Delta_SD: -89.6937  Delta_KL: -121.138  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -121.126
+
+Renyi_a: 130
+Delta_SD: -89.6937  Delta_KL: -121.138  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -121.127
+
+Renyi_a: 140
+Delta_SD: -89.6937  Delta_KL: -121.138  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -121.128
+
+Renyi_a: 150
+Delta_SD: -89.6937  Delta_KL: -121.138  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -121.128
+
+Renyi_a: 160
+Delta_SD: -89.6937  Delta_KL: -121.138  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -121.129
+
+Renyi_a: 170
+Delta_SD: -89.6937  Delta_KL: -121.138  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -121.13
+
+Renyi_a: 180
+Delta_SD: -89.6937  Delta_KL: -121.138  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -121.13
+
+Renyi_a: 190
+Delta_SD: -89.6937  Delta_KL: -121.138  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -121.13
+
+Renyi_a: 200
+Delta_SD: -89.6937  Delta_KL: -121.138  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -121.131
+
+
+precision: 133
+output_errors:
+Renyi_a: 10
+Delta_SD: -89.6937  Delta_KL: -129.407  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -129.255
+
+Renyi_a: 20
+Delta_SD: -89.6937  Delta_KL: -129.407  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -129.333
+
+Renyi_a: 30
+Delta_SD: -89.6937  Delta_KL: -129.407  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -129.358
+
+Renyi_a: 40
+Delta_SD: -89.6937  Delta_KL: -129.407  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -129.371
+
+Renyi_a: 50
+Delta_SD: -89.6937  Delta_KL: -129.407  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -129.378
+
+Renyi_a: 60
+Delta_SD: -89.6937  Delta_KL: -129.407  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -129.383
+
+Renyi_a: 70
+Delta_SD: -89.6937  Delta_KL: -129.407  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -129.386
+
+Renyi_a: 80
+Delta_SD: -89.6937  Delta_KL: -129.407  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -129.389
+
+Renyi_a: 90
+Delta_SD: -89.6937  Delta_KL: -129.407  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -129.391
+
+Renyi_a: 100
+Delta_SD: -89.6937  Delta_KL: -129.407  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -129.393
+
+Renyi_a: 110
+Delta_SD: -89.6937  Delta_KL: -129.407  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -129.394
+
+Renyi_a: 120
+Delta_SD: -89.6937  Delta_KL: -129.407  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -129.395
+
+Renyi_a: 130
+Delta_SD: -89.6937  Delta_KL: -129.407  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -129.396
+
+Renyi_a: 140
+Delta_SD: -89.6937  Delta_KL: -129.407  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -129.397
+
+Renyi_a: 150
+Delta_SD: -89.6937  Delta_KL: -129.407  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -129.397
+
+Renyi_a: 160
+Delta_SD: -89.6937  Delta_KL: -129.407  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -129.398
+
+Renyi_a: 170
+Delta_SD: -89.6937  Delta_KL: -129.407  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -129.399
+
+Renyi_a: 180
+Delta_SD: -89.6937  Delta_KL: -129.407  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -129.399
+
+Renyi_a: 190
+Delta_SD: -89.6937  Delta_KL: -129.407  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -129.4
+
+Renyi_a: 200
+Delta_SD: -89.6937  Delta_KL: -129.407  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -129.4
+
+
+precision: 143
+output_errors:
+Renyi_a: 10
+Delta_SD: -89.6937  Delta_KL: -139.686  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -139.534
+
+Renyi_a: 20
+Delta_SD: -89.6937  Delta_KL: -139.686  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -139.612
+
+Renyi_a: 30
+Delta_SD: -89.6937  Delta_KL: -139.686  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -139.637
+
+Renyi_a: 40
+Delta_SD: -89.6937  Delta_KL: -139.686  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -139.649
+
+Renyi_a: 50
+Delta_SD: -89.6937  Delta_KL: -139.686  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -139.657
+
+Renyi_a: 60
+Delta_SD: -89.6937  Delta_KL: -139.686  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -139.662
+
+Renyi_a: 70
+Delta_SD: -89.6937  Delta_KL: -139.686  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -139.665
+
+Renyi_a: 80
+Delta_SD: -89.6937  Delta_KL: -139.686  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -139.668
+
+Renyi_a: 90
+Delta_SD: -89.6937  Delta_KL: -139.686  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -139.67
+
+Renyi_a: 100
+Delta_SD: -89.6937  Delta_KL: -139.686  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -139.671
+
+Renyi_a: 110
+Delta_SD: -89.6937  Delta_KL: -139.686  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -139.673
+
+Renyi_a: 120
+Delta_SD: -89.6937  Delta_KL: -139.686  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -139.674
+
+Renyi_a: 130
+Delta_SD: -89.6937  Delta_KL: -139.686  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -139.675
+
+Renyi_a: 140
+Delta_SD: -89.6937  Delta_KL: -139.686  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -139.676
+
+Renyi_a: 150
+Delta_SD: -89.6937  Delta_KL: -139.686  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -139.676
+
+Renyi_a: 160
+Delta_SD: -89.6937  Delta_KL: -139.686  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -139.677
+
+Renyi_a: 170
+Delta_SD: -89.6937  Delta_KL: -139.686  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -139.677
+
+Renyi_a: 180
+Delta_SD: -89.6937  Delta_KL: -139.686  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -139.678
+
+Renyi_a: 190
+Delta_SD: -89.6937  Delta_KL: -139.686  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -139.678
+
+Renyi_a: 200
+Delta_SD: -89.6937  Delta_KL: -139.686  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -139.679
+
+
+precision: 153
+output_errors:
+Renyi_a: 10
+Delta_SD: -89.6937  Delta_KL: -149.159  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -149.007
+
+Renyi_a: 20
+Delta_SD: -89.6937  Delta_KL: -149.159  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -149.085
+
+Renyi_a: 30
+Delta_SD: -89.6937  Delta_KL: -149.159  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -149.11
+
+Renyi_a: 40
+Delta_SD: -89.6937  Delta_KL: -149.159  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -149.122
+
+Renyi_a: 50
+Delta_SD: -89.6937  Delta_KL: -149.159  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -149.129
+
+Renyi_a: 60
+Delta_SD: -89.6937  Delta_KL: -149.159  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -149.134
+
+Renyi_a: 70
+Delta_SD: -89.6937  Delta_KL: -149.159  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -149.138
+
+Renyi_a: 80
+Delta_SD: -89.6937  Delta_KL: -149.159  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -149.14
+
+Renyi_a: 90
+Delta_SD: -89.6937  Delta_KL: -149.159  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -149.142
+
+Renyi_a: 100
+Delta_SD: -89.6937  Delta_KL: -149.159  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -149.144
+
+Renyi_a: 110
+Delta_SD: -89.6937  Delta_KL: -149.159  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -149.145
+
+Renyi_a: 120
+Delta_SD: -89.6937  Delta_KL: -149.159  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -149.146
+
+Renyi_a: 130
+Delta_SD: -89.6937  Delta_KL: -149.159  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -149.147
+
+Renyi_a: 140
+Delta_SD: -89.6937  Delta_KL: -149.159  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -149.148
+
+Renyi_a: 150
+Delta_SD: -89.6937  Delta_KL: -149.159  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -149.149
+
+Renyi_a: 160
+Delta_SD: -89.6937  Delta_KL: -149.159  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -149.15
+
+Renyi_a: 170
+Delta_SD: -89.6937  Delta_KL: -149.159  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -149.15
+
+Renyi_a: 180
+Delta_SD: -89.6937  Delta_KL: -149.159  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -149.151
+
+Renyi_a: 190
+Delta_SD: -89.6937  Delta_KL: -149.159  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -149.151
+
+Renyi_a: 200
+Delta_SD: -89.6937  Delta_KL: -149.159  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -149.151
+
+
+precision: 163
+output_errors:
+Renyi_a: 10
+Delta_SD: -89.6937  Delta_KL: -160.017  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -159.865
+
+Renyi_a: 20
+Delta_SD: -89.6937  Delta_KL: -160.017  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -159.943
+
+Renyi_a: 30
+Delta_SD: -89.6937  Delta_KL: -160.017  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -159.969
+
+Renyi_a: 40
+Delta_SD: -89.6937  Delta_KL: -160.017  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -159.981
+
+Renyi_a: 50
+Delta_SD: -89.6937  Delta_KL: -160.017  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -159.989
+
+Renyi_a: 60
+Delta_SD: -89.6937  Delta_KL: -160.017  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -159.994
+
+Renyi_a: 70
+Delta_SD: -89.6937  Delta_KL: -160.017  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -159.998
+
+Renyi_a: 80
+Delta_SD: -89.6937  Delta_KL: -160.017  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -160
+
+Renyi_a: 90
+Delta_SD: -89.6937  Delta_KL: -160.017  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -160.002
+
+Renyi_a: 100
+Delta_SD: -89.6937  Delta_KL: -160.017  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -160.004
+
+Renyi_a: 110
+Delta_SD: -89.6937  Delta_KL: -160.017  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -160.006
+
+Renyi_a: 120
+Delta_SD: -89.6937  Delta_KL: -160.017  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -160.007
+
+Renyi_a: 130
+Delta_SD: -89.6937  Delta_KL: -160.017  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -160.008
+
+Renyi_a: 140
+Delta_SD: -89.6937  Delta_KL: -160.017  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -160.009
+
+Renyi_a: 150
+Delta_SD: -89.6937  Delta_KL: -160.017  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -160.009
+
+Renyi_a: 160
+Delta_SD: -89.6937  Delta_KL: -160.017  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -160.01
+
+Renyi_a: 170
+Delta_SD: -89.6937  Delta_KL: -160.017  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -160.011
+
+Renyi_a: 180
+Delta_SD: -89.6937  Delta_KL: -160.017  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -160.011
+
+Renyi_a: 190
+Delta_SD: -89.6937  Delta_KL: -160.017  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -160.012
+
+Renyi_a: 200
+Delta_SD: -89.6937  Delta_KL: -160.017  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -160.012
+
+
+precision: 173
+output_errors:
+Renyi_a: 10
+Delta_SD: -89.6937  Delta_KL: -168.256  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.256
+
+Renyi_a: 20
+Delta_SD: -89.6937  Delta_KL: -168.256  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.122
+
+Renyi_a: 30
+Delta_SD: -89.6937  Delta_KL: -168.256  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.053
+
+Renyi_a: 40
+Delta_SD: -89.6937  Delta_KL: -168.256  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.005
+
+Renyi_a: 50
+Delta_SD: -89.6937  Delta_KL: -168.256  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -167.968
+
+Renyi_a: 60
+Delta_SD: -89.6937  Delta_KL: -168.256  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -167.937
+
+Renyi_a: 70
+Delta_SD: -89.6937  Delta_KL: -168.256  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -167.91
+
+Renyi_a: 80
+Delta_SD: -89.6937  Delta_KL: -168.256  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -167.886
+
+Renyi_a: 90
+Delta_SD: -89.6937  Delta_KL: -168.256  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -167.865
+
+Renyi_a: 100
+Delta_SD: -89.6937  Delta_KL: -168.256  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -167.845
+
+Renyi_a: 110
+Delta_SD: -89.6937  Delta_KL: -168.256  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -167.826
+
+Renyi_a: 120
+Delta_SD: -89.6937  Delta_KL: -168.256  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -167.809
+
+Renyi_a: 130
+Delta_SD: -89.6937  Delta_KL: -168.256  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -167.792
+
+Renyi_a: 140
+Delta_SD: -89.6937  Delta_KL: -168.256  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -167.776
+
+Renyi_a: 150
+Delta_SD: -89.6937  Delta_KL: -168.256  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -167.761
+
+Renyi_a: 160
+Delta_SD: -89.6937  Delta_KL: -168.256  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -167.746
+
+Renyi_a: 170
+Delta_SD: -89.6937  Delta_KL: -168.256  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -167.731
+
+Renyi_a: 180
+Delta_SD: -89.6937  Delta_KL: -168.256  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -167.717
+
+Renyi_a: 190
+Delta_SD: -89.6937  Delta_KL: -168.256  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -167.704
+
+Renyi_a: 200
+Delta_SD: -89.6937  Delta_KL: -168.256  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -167.691
+
+
+precision: 183
+output_errors:
+Renyi_a: 10
+Delta_SD: -89.6937  Delta_KL: -168.924  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -169.022
+
+Renyi_a: 20
+Delta_SD: -89.6937  Delta_KL: -168.924  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.756
+
+Renyi_a: 30
+Delta_SD: -89.6937  Delta_KL: -168.924  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.637
+
+Renyi_a: 40
+Delta_SD: -89.6937  Delta_KL: -168.924  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.56
+
+Renyi_a: 50
+Delta_SD: -89.6937  Delta_KL: -168.924  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.502
+
+Renyi_a: 60
+Delta_SD: -89.6937  Delta_KL: -168.924  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.456
+
+Renyi_a: 70
+Delta_SD: -89.6937  Delta_KL: -168.924  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.416
+
+Renyi_a: 80
+Delta_SD: -89.6937  Delta_KL: -168.924  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.382
+
+Renyi_a: 90
+Delta_SD: -89.6937  Delta_KL: -168.924  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.351
+
+Renyi_a: 100
+Delta_SD: -89.6937  Delta_KL: -168.924  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.322
+
+Renyi_a: 110
+Delta_SD: -89.6937  Delta_KL: -168.924  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.296
+
+Renyi_a: 120
+Delta_SD: -89.6937  Delta_KL: -168.924  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.271
+
+Renyi_a: 130
+Delta_SD: -89.6937  Delta_KL: -168.924  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.248
+
+Renyi_a: 140
+Delta_SD: -89.6937  Delta_KL: -168.924  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.225
+
+Renyi_a: 150
+Delta_SD: -89.6937  Delta_KL: -168.924  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.204
+
+Renyi_a: 160
+Delta_SD: -89.6937  Delta_KL: -168.924  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.184
+
+Renyi_a: 170
+Delta_SD: -89.6937  Delta_KL: -168.924  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.164
+
+Renyi_a: 180
+Delta_SD: -89.6937  Delta_KL: -168.924  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.145
+
+Renyi_a: 190
+Delta_SD: -89.6937  Delta_KL: -168.924  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.127
+
+Renyi_a: 200
+Delta_SD: -89.6937  Delta_KL: -168.924  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.109
+
+
+precision: 193
+output_errors:
+Renyi_a: 10
+Delta_SD: -89.6937  Delta_KL: -168.925  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -169.023
+
+Renyi_a: 20
+Delta_SD: -89.6937  Delta_KL: -168.925  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.757
+
+Renyi_a: 30
+Delta_SD: -89.6937  Delta_KL: -168.925  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.638
+
+Renyi_a: 40
+Delta_SD: -89.6937  Delta_KL: -168.925  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.561
+
+Renyi_a: 50
+Delta_SD: -89.6937  Delta_KL: -168.925  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.503
+
+Renyi_a: 60
+Delta_SD: -89.6937  Delta_KL: -168.925  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.457
+
+Renyi_a: 70
+Delta_SD: -89.6937  Delta_KL: -168.925  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.417
+
+Renyi_a: 80
+Delta_SD: -89.6937  Delta_KL: -168.925  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.382
+
+Renyi_a: 90
+Delta_SD: -89.6937  Delta_KL: -168.925  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.351
+
+Renyi_a: 100
+Delta_SD: -89.6937  Delta_KL: -168.925  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.323
+
+Renyi_a: 110
+Delta_SD: -89.6937  Delta_KL: -168.925  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.296
+
+Renyi_a: 120
+Delta_SD: -89.6937  Delta_KL: -168.925  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.272
+
+Renyi_a: 130
+Delta_SD: -89.6937  Delta_KL: -168.925  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.248
+
+Renyi_a: 140
+Delta_SD: -89.6937  Delta_KL: -168.925  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.226
+
+Renyi_a: 150
+Delta_SD: -89.6937  Delta_KL: -168.925  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.205
+
+Renyi_a: 160
+Delta_SD: -89.6937  Delta_KL: -168.925  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.184
+
+Renyi_a: 170
+Delta_SD: -89.6937  Delta_KL: -168.925  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.165
+
+Renyi_a: 180
+Delta_SD: -89.6937  Delta_KL: -168.925  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.146
+
+Renyi_a: 190
+Delta_SD: -89.6937  Delta_KL: -168.925  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.127
+
+Renyi_a: 200
+Delta_SD: -89.6937  Delta_KL: -168.925  Delta_RE: -2.67026  Delta_RE's x: -3245,3245  Delta_ML: -2.77679  Delta_ML's x: -3245,3245  Delta_Renyi: -168.109
+
+
