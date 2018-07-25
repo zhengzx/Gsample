@@ -1,0 +1,548 @@
+Experiment 6: 
+t: 3 epsilon_t: -39.79124128
+precision: 53
+output_errors:
+ E(pi): -46.78363333 E(2pi): -52.43967327 E(111): -46.61362285 E(222): -50.46210266
+Delta_SD: -45.4116  Delta_KL: -44.4116  Delta_RE: -44.4065  Delta_RE's x: -14,14  Delta_ML: -44.4065  Delta_ML's x: -14,14  Delta_Renyi: -44.4061
+
+
+precision: 63
+output_errors:
+ E(pi): -46.781 E(2pi): -62.1581 E(111): -46.612 E(222): -50.4371
+Delta_SD: -45.4172  Delta_KL: -44.4172  Delta_RE: -44.4172  Delta_RE's x: -126,126  Delta_ML: -44.4172  Delta_ML's x: -126,126  Delta_Renyi: -44.4172
+
+
+precision: 73
+output_errors:
+ E(pi): -46.781 E(2pi): -72.239 E(111): -46.612 E(222): -50.4371
+Delta_SD: -45.4172  Delta_KL: -44.4172  Delta_RE: -44.4172  Delta_RE's x: -134,134  Delta_ML: -44.4172  Delta_ML's x: -134,134  Delta_Renyi: -44.4172
+
+
+precision: 83
+output_errors:
+ E(pi): -46.781 E(2pi): -81.3235 E(111): -46.612 E(222): -50.4371
+Delta_SD: -45.4172  Delta_KL: -44.4172  Delta_RE: -44.4172  Delta_RE's x: -58,58  Delta_ML: -44.4172  Delta_ML's x: -58,58  Delta_Renyi: -44.4172
+
+
+precision: 93
+output_errors:
+ E(pi): -46.781 E(2pi): -97.3885 E(111): -46.612 E(222): -50.4371
+Delta_SD: -45.4172  Delta_KL: -44.4172  Delta_RE: -44.4172  Delta_RE's x: -70,70  Delta_ML: -44.4172  Delta_ML's x: -70,70  Delta_Renyi: -44.4172
+
+
+precision: 103
+output_errors:
+ E(pi): -46.781 E(2pi): -102.061 E(111): -46.612 E(222): -50.4371
+Delta_SD: -45.4172  Delta_KL: -44.4172  Delta_RE: -44.4172  Delta_RE's x: -79,79  Delta_ML: -44.4172  Delta_ML's x: -79,79  Delta_Renyi: -44.4172
+
+
+precision: 113
+output_errors:
+ E(pi): -46.781 E(2pi): -117.683 E(111): -46.612 E(222): -50.4371
+Delta_SD: -45.4172  Delta_KL: -44.4172  Delta_RE: -44.4172  Delta_RE's x: -35,35  Delta_ML: -44.4172  Delta_ML's x: -35,35  Delta_Renyi: -44.4172
+
+
+precision: 123
+output_errors:
+ E(pi): -46.781 E(2pi): -122.071 E(111): -46.612 E(222): -50.4371
+Delta_SD: -45.4172  Delta_KL: -44.4172  Delta_RE: -44.4172  Delta_RE's x: -134,134  Delta_ML: -44.4172  Delta_ML's x: -134,134  Delta_Renyi: -44.4172
+
+
+precision: 133
+output_errors:
+ E(pi): -46.781 E(2pi): -132.154 E(111): -46.612 E(222): -50.4371
+Delta_SD: -45.4172  Delta_KL: -44.4172  Delta_RE: -44.4172  Delta_RE's x: -72,72  Delta_ML: -44.4172  Delta_ML's x: -72,72  Delta_Renyi: -44.4172
+
+
+precision: 143
+output_errors:
+ E(pi): -46.781 E(2pi): -142.294 E(111): -46.612 E(222): -50.4371
+Delta_SD: -45.4172  Delta_KL: -44.4172  Delta_RE: -44.4172  Delta_RE's x: -48,48  Delta_ML: -44.4172  Delta_ML's x: -48,48  Delta_Renyi: -44.4172
+
+
+precision: 153
+output_errors:
+ E(pi): -46.781 E(2pi): -150.15 E(111): -46.612 E(222): -50.4371
+Delta_SD: -45.4172  Delta_KL: -44.4172  Delta_RE: -44.4172  Delta_RE's x: -58,58  Delta_ML: -44.4172  Delta_ML's x: -58,58  Delta_Renyi: -44.4172
+
+
+precision: 163
+output_errors:
+ E(pi): -46.781 E(2pi): -161.024 E(111): -46.612 E(222): -50.4371
+Delta_SD: -45.4172  Delta_KL: -44.4172  Delta_RE: -44.4172  Delta_RE's x: -3,3  Delta_ML: -44.4172  Delta_ML's x: -3,3  Delta_Renyi: -44.4172
+
+
+precision: 173
+output_errors:
+ E(pi): -46.781 E(2pi): -170.399 E(111): -46.612 E(222): -50.4371
+Delta_SD: -45.4172  Delta_KL: -44.4172  Delta_RE: -44.4172  Delta_RE's x: -98,98  Delta_ML: -44.4172  Delta_ML's x: -98,98  Delta_Renyi: -44.4172
+
+
+precision: 183
+output_errors:
+ E(pi): -46.781 E(2pi): -182.063 E(111): -46.612 E(222): -50.4371
+Delta_SD: -45.4172  Delta_KL: -44.4172  Delta_RE: -44.4172  Delta_RE's x: -117,117  Delta_ML: -44.4172  Delta_ML's x: -117,117  Delta_Renyi: -44.4172
+
+
+precision: 193
+output_errors:
+ E(pi): -46.781 E(2pi): -201.257 E(111): -46.612 E(222): -50.4371
+Delta_SD: -45.4172  Delta_KL: -44.4172  Delta_RE: -44.4172  Delta_RE's x: -146,146  Delta_ML: -44.4172  Delta_ML's x: -146,146  Delta_Renyi: -44.4172
+
+
+t: 5 epsilon_t: -112.309
+precision: 53
+output_errors:
+ E(pi): -56.4482 E(2pi): -52.1149 E(111): -57.8981 E(222): -58.2518
+Delta_SD: -53.1149  Delta_KL: -52.1149  Delta_RE: -51.314  Delta_RE's x: -97,97  Delta_ML: -51.314  Delta_ML's x: -97,97  Delta_Renyi: -51.1149
+
+
+precision: 63
+output_errors:
+ E(pi): -67.1753 E(2pi): -60.3978 E(111): -66.9049 E(222): -67.1138
+Delta_SD: -61.3978  Delta_KL: -60.3978  Delta_RE: -60.1139  Delta_RE's x: -238,238  Delta_ML: -60.1139  Delta_ML's x: -238,238  Delta_Renyi: -59.3978
+
+
+precision: 73
+output_errors:
+ E(pi): -79.4731 E(2pi): -70.9668 E(111): -76.6313 E(222): -76.6729
+Delta_SD: -71.9668  Delta_KL: -70.9668  Delta_RE: -70.539  Delta_RE's x: -103,103  Delta_ML: -70.539  Delta_ML's x: -103,103  Delta_Renyi: -69.9668
+
+
+precision: 83
+output_errors:
+ E(pi): -87.75 E(2pi): -86.7061 E(111): -87.3114 E(222): -87.3688
+Delta_SD: -85.5593  Delta_KL: -86.7061  Delta_RE: -83.2942  Delta_RE's x: -174,174  Delta_ML: -83.2942  Delta_ML's x: -174,174  Delta_Renyi: -85.7061
+
+
+precision: 93
+output_errors:
+ E(pi): -97.1775 E(2pi): -92.1104 E(111): -97.8414 E(222): -97.4047
+Delta_SD: -93.1104  Delta_KL: -92.1104  Delta_RE: -91.2968  Delta_RE's x: -119,119  Delta_ML: -91.2968  Delta_ML's x: -119,119  Delta_Renyi: -91.1104
+
+
+precision: 103
+output_errors:
+ E(pi): -107.826 E(2pi): -99.6718 E(111): -105.903 E(222): -105.904
+Delta_SD: -100.672  Delta_KL: -99.6718  Delta_RE: -99.5009  Delta_RE's x: -1,1  Delta_ML: -99.5009  Delta_ML's x: -1,1  Delta_Renyi: -98.6718
+
+
+precision: 113
+output_errors:
+ E(pi): -122.435 E(2pi): -112.368 E(111): -117.063 E(222): -117.035
+Delta_SD: -113.339  Delta_KL: -112.339  Delta_RE: -111.476  Delta_RE's x: -183,183  Delta_ML: -111.476  Delta_ML's x: -183,183  Delta_Renyi: -111.354
+
+
+precision: 123
+output_errors:
+ E(pi): -119.649 E(2pi): -122.098 E(111): -120.534 E(222): -120.619
+Delta_SD: -118.902  Delta_KL: -117.902  Delta_RE: -117.845  Delta_RE's x: -119,119  Delta_ML: -117.845  Delta_ML's x: -119,119  Delta_Renyi: -117.825
+
+
+precision: 133
+output_errors:
+ E(pi): -119.658 E(2pi): -132.473 E(111): -120.527 E(222): -120.609
+Delta_SD: -118.983  Delta_KL: -117.983  Delta_RE: -117.983  Delta_RE's x: -42,42  Delta_ML: -117.983  Delta_ML's x: -42,42  Delta_Renyi: -117.983
+
+
+precision: 143
+output_errors:
+ E(pi): -119.658 E(2pi): -140.702 E(111): -120.527 E(222): -120.609
+Delta_SD: -118.983  Delta_KL: -117.983  Delta_RE: -117.983  Delta_RE's x: -74,74  Delta_ML: -117.983  Delta_ML's x: -74,74  Delta_Renyi: -117.983
+
+
+precision: 153
+output_errors:
+ E(pi): -119.658 E(2pi): -150.434 E(111): -120.527 E(222): -120.609
+Delta_SD: -118.983  Delta_KL: -117.983  Delta_RE: -117.983  Delta_RE's x: -98,98  Delta_ML: -117.983  Delta_ML's x: -98,98  Delta_Renyi: -117.983
+
+
+precision: 163
+output_errors:
+ E(pi): -119.658 E(2pi): -162.092 E(111): -120.527 E(222): -120.609
+Delta_SD: -118.983  Delta_KL: -117.983  Delta_RE: -117.983  Delta_RE's x: -79,79  Delta_ML: -117.983  Delta_ML's x: -79,79  Delta_Renyi: -117.983
+
+
+precision: 173
+output_errors:
+ E(pi): -119.658 E(2pi): -172.385 E(111): -120.527 E(222): -120.609
+Delta_SD: -118.983  Delta_KL: -117.983  Delta_RE: -117.983  Delta_RE's x: -93,93  Delta_ML: -117.983  Delta_ML's x: -93,93  Delta_Renyi: -117.983
+
+
+precision: 183
+output_errors:
+ E(pi): -119.658 E(2pi): -189.863 E(111): -120.527 E(222): -120.609
+Delta_SD: -118.983  Delta_KL: -117.983  Delta_RE: -117.983  Delta_RE's x: -58,58  Delta_ML: -117.983  Delta_ML's x: -58,58  Delta_Renyi: -117.983
+
+
+precision: 193
+output_errors:
+ E(pi): -119.658 E(2pi): -192.455 E(111): -120.527 E(222): -120.609
+Delta_SD: -118.983  Delta_KL: -117.983  Delta_RE: -117.983  Delta_RE's x: -42,42  Delta_ML: -117.983  Delta_ML's x: -42,42  Delta_Renyi: -117.983
+
+
+t: 7 epsilon_t: -221.086
+precision: 53
+output_errors:
+ E(pi): -56.4482 E(2pi): -52.1149 E(111): -57.8981 E(222): -58.2518
+Delta_SD: -53.1149  Delta_KL: -52.1149  Delta_RE: -51.2739  Delta_RE's x: -266,266  Delta_ML: -51.2739  Delta_ML's x: -266,266  Delta_Renyi: -51.1149
+
+
+precision: 63
+output_errors:
+ E(pi): -67.1753 E(2pi): -60.3978 E(111): -66.9049 E(222): -67.1138
+Delta_SD: -61.3978  Delta_KL: -60.3978  Delta_RE: -60.087  Delta_RE's x: -291,291  Delta_ML: -60.087  Delta_ML's x: -291,291  Delta_Renyi: -59.3978
+
+
+precision: 73
+output_errors:
+ E(pi): -79.4731 E(2pi): -70.9668 E(111): -76.6313 E(222): -76.6729
+Delta_SD: -71.9668  Delta_KL: -70.9668  Delta_RE: -70.539  Delta_RE's x: -103,103  Delta_ML: -70.539  Delta_ML's x: -103,103  Delta_Renyi: -69.9668
+
+
+precision: 83
+output_errors:
+ E(pi): -87.75 E(2pi): -86.7061 E(111): -87.3114 E(222): -87.3688
+Delta_SD: -85.5593  Delta_KL: -86.7061  Delta_RE: -83.1612  Delta_RE's x: -248,248  Delta_ML: -83.1612  Delta_ML's x: -248,248  Delta_Renyi: -85.7061
+
+
+precision: 93
+output_errors:
+ E(pi): -97.1775 E(2pi): -92.1104 E(111): -97.8414 E(222): -97.4047
+Delta_SD: -93.1104  Delta_KL: -92.1104  Delta_RE: -91.2968  Delta_RE's x: -119,119  Delta_ML: -91.2968  Delta_ML's x: -119,119  Delta_Renyi: -91.1104
+
+
+precision: 103
+output_errors:
+ E(pi): -107.826 E(2pi): -99.6718 E(111): -105.903 E(222): -105.904
+Delta_SD: -100.672  Delta_KL: -99.6718  Delta_RE: -99.494  Delta_RE's x: -275,275  Delta_ML: -99.494  Delta_ML's x: -275,275  Delta_Renyi: -98.6718
+
+
+precision: 113
+output_errors:
+ E(pi): -117.815 E(2pi): -112.412 E(111): -119.209 E(222): -118.593
+Delta_SD: -113.412  Delta_KL: -112.412  Delta_RE: -111.476  Delta_RE's x: -183,183  Delta_ML: -111.476  Delta_ML's x: -183,183  Delta_Renyi: -111.412
+
+
+precision: 123
+output_errors:
+ E(pi): -126.276 E(2pi): -122.138 E(111): -127.819 E(222): -127.855
+Delta_SD: -123.138  Delta_KL: -122.138  Delta_RE: -121.326  Delta_RE's x: -304,304  Delta_ML: -121.326  Delta_ML's x: -304,304  Delta_Renyi: -121.138
+
+
+precision: 133
+output_errors:
+ E(pi): -137.161 E(2pi): -130.407 E(111): -136.945 E(222): -136.975
+Delta_SD: -131.407  Delta_KL: -130.407  Delta_RE: -130.081  Delta_RE's x: -98,98  Delta_ML: -130.081  Delta_ML's x: -98,98  Delta_Renyi: -129.407
+
+
+precision: 143
+output_errors:
+ E(pi): -148.482 E(2pi): -140.686 E(111): -148.135 E(222): -148.827
+Delta_SD: -141.686  Delta_KL: -140.686  Delta_RE: -140.263  Delta_RE's x: -168,168  Delta_ML: -140.263  Delta_ML's x: -168,168  Delta_Renyi: -139.686
+
+
+precision: 153
+output_errors:
+ E(pi): -156.922 E(2pi): -150.159 E(111): -157.392 E(222): -157.655
+Delta_SD: -151.159  Delta_KL: -150.159  Delta_RE: -149.913  Delta_RE's x: -126,126  Delta_ML: -149.913  Delta_ML's x: -126,126  Delta_Renyi: -149.159
+
+
+precision: 163
+output_errors:
+ E(pi): -166.468 E(2pi): -161.022 E(111): -166.584 E(222): -166.809
+Delta_SD: -162.022  Delta_KL: -161.022  Delta_RE: -160.553  Delta_RE's x: -217,217  Delta_ML: -160.553  Delta_ML's x: -217,217  Delta_Renyi: -160.022
+
+
+precision: 173
+output_errors:
+ E(pi): -179.846 E(2pi): -172.427 E(111): -176.277 E(222): -176.357
+Delta_SD: -173.427  Delta_KL: -172.427  Delta_RE: -171.588  Delta_RE's x: -318,318  Delta_ML: -171.588  Delta_ML's x: -318,318  Delta_Renyi: -171.427
+
+
+precision: 183
+output_errors:
+ E(pi): -195.679 E(2pi): -181.215 E(111): -191.326 E(222): -189.538
+Delta_SD: -182.215  Delta_KL: -181.215  Delta_RE: -180.725  Delta_RE's x: -282,282  Delta_ML: -180.725  Delta_ML's x: -282,282  Delta_Renyi: -180.215
+
+
+precision: 193
+output_errors:
+ E(pi): -198.787 E(2pi): -195.529 E(111): -198.462 E(222): -198.489
+Delta_SD: -195.481  Delta_KL: -195.529  Delta_RE: -193.065  Delta_RE's x: -301,301  Delta_ML: -193.065  Delta_ML's x: -301,301  Delta_Renyi: -194.529
+
+
+Experiment 7: 
+t: 3 epsilon_t: -39.7912
+precision: 53
+output_errors:
+ E(pi): -46.7553 E(2pi): -499 E(111): -46.6393 E(222): -50.8847
+Delta_SD: -45.4172  Delta_KL: -44.4172  Delta_RE: -44.4065  Delta_RE's x: -14,14  Delta_ML: -44.4065  Delta_ML's x: -14,14  Delta_Renyi: -44.4172
+
+
+precision: 63
+output_errors:
+ E(pi): -46.781 E(2pi): -499 E(111): -46.6119 E(222): -50.4367
+Delta_SD: -45.4172  Delta_KL: -44.4172  Delta_RE: -44.4169  Delta_RE's x: 0,0  Delta_ML: -44.4169  Delta_ML's x: 0,0  Delta_Renyi: -44.4172
+
+
+precision: 73
+output_errors:
+ E(pi): -46.781 E(2pi): -499 E(111): -46.612 E(222): -50.4371
+Delta_SD: -45.4172  Delta_KL: -44.4172  Delta_RE: -44.4172  Delta_RE's x: 0,0  Delta_ML: -44.4172  Delta_ML's x: 0,0  Delta_Renyi: -44.4172
+
+
+precision: 83
+output_errors:
+ E(pi): -46.781 E(2pi): -499 E(111): -46.612 E(222): -50.4371
+Delta_SD: -45.4172  Delta_KL: -44.4172  Delta_RE: -44.4172  Delta_RE's x: -58,58  Delta_ML: -44.4172  Delta_ML's x: -58,58  Delta_Renyi: -44.4172
+
+
+precision: 93
+output_errors:
+ E(pi): -46.781 E(2pi): -499 E(111): -46.612 E(222): -50.4371
+Delta_SD: -45.4172  Delta_KL: -44.4172  Delta_RE: -44.4172  Delta_RE's x: 0,0  Delta_ML: -44.4172  Delta_ML's x: 0,0  Delta_Renyi: -44.4172
+
+
+precision: 103
+output_errors:
+ E(pi): -46.781 E(2pi): -499 E(111): -46.612 E(222): -50.4371
+Delta_SD: -45.4172  Delta_KL: -44.4172  Delta_RE: -44.4172  Delta_RE's x: 0,0  Delta_ML: -44.4172  Delta_ML's x: 0,0  Delta_Renyi: -44.4172
+
+
+precision: 113
+output_errors:
+ E(pi): -46.781 E(2pi): -499 E(111): -46.612 E(222): -50.4371
+Delta_SD: -45.4172  Delta_KL: -44.4172  Delta_RE: -44.4172  Delta_RE's x: -35,35  Delta_ML: -44.4172  Delta_ML's x: -35,35  Delta_Renyi: -44.4172
+
+
+precision: 123
+output_errors:
+ E(pi): -46.781 E(2pi): -499 E(111): -46.612 E(222): -50.4371
+Delta_SD: -45.4172  Delta_KL: -44.4172  Delta_RE: -44.4172  Delta_RE's x: 0,0  Delta_ML: -44.4172  Delta_ML's x: 0,0  Delta_Renyi: -44.4172
+
+
+precision: 133
+output_errors:
+ E(pi): -46.781 E(2pi): -499 E(111): -46.612 E(222): -50.4371
+Delta_SD: -45.4172  Delta_KL: -44.4172  Delta_RE: -44.4172  Delta_RE's x: 0,0  Delta_ML: -44.4172  Delta_ML's x: 0,0  Delta_Renyi: -44.4172
+
+
+precision: 143
+output_errors:
+ E(pi): -46.781 E(2pi): -499 E(111): -46.612 E(222): -50.4371
+Delta_SD: -45.4172  Delta_KL: -44.4172  Delta_RE: -44.4172  Delta_RE's x: -48,48  Delta_ML: -44.4172  Delta_ML's x: -48,48  Delta_Renyi: -44.4172
+
+
+precision: 153
+output_errors:
+ E(pi): -46.781 E(2pi): -499 E(111): -46.612 E(222): -50.4371
+Delta_SD: -45.4172  Delta_KL: -44.4172  Delta_RE: -44.4172  Delta_RE's x: -58,58  Delta_ML: -44.4172  Delta_ML's x: -58,58  Delta_Renyi: -44.4172
+
+
+precision: 163
+output_errors:
+ E(pi): -46.781 E(2pi): -499 E(111): -46.612 E(222): -50.4371
+Delta_SD: -45.4172  Delta_KL: -44.4172  Delta_RE: -44.4172  Delta_RE's x: -3,3  Delta_ML: -44.4172  Delta_ML's x: -3,3  Delta_Renyi: -44.4172
+
+
+precision: 173
+output_errors:
+ E(pi): -46.781 E(2pi): -499 E(111): -46.612 E(222): -50.4371
+Delta_SD: -45.4172  Delta_KL: -44.4172  Delta_RE: -44.4172  Delta_RE's x: -98,98  Delta_ML: -44.4172  Delta_ML's x: -98,98  Delta_Renyi: -44.4172
+
+
+precision: 183
+output_errors:
+ E(pi): -46.781 E(2pi): -499 E(111): -46.612 E(222): -50.4371
+Delta_SD: -45.4172  Delta_KL: -44.4172  Delta_RE: -44.4172  Delta_RE's x: 0,0  Delta_ML: -44.4172  Delta_ML's x: 0,0  Delta_Renyi: -44.4172
+
+
+precision: 193
+output_errors:
+ E(pi): -46.781 E(2pi): -499 E(111): -46.612 E(222): -50.4371
+Delta_SD: -45.4172  Delta_KL: -44.4172  Delta_RE: -44.4172  Delta_RE's x: -146,146  Delta_ML: -44.4172  Delta_ML's x: -146,146  Delta_Renyi: -44.4172
+
+
+t: 5 epsilon_t: -112.309
+precision: 53
+output_errors:
+ E(pi): -52.1883 E(2pi): -499 E(111): -52.0889 E(222): -52.0945
+Delta_SD: -52.1421  Delta_KL: -99.6384  Delta_RE: -46.5286  Delta_RE's x: 0,0  Delta_ML: -46.5286  Delta_ML's x: 0,0  Delta_Renyi: -98.6384
+
+
+precision: 63
+output_errors:
+ E(pi): -60.411 E(2pi): -499 E(111): -60.4138 E(222): -60.4116
+Delta_SD: -60.4248  Delta_KL: -115.837  Delta_RE: -54.8114  Delta_RE's x: 0,0  Delta_ML: -54.8114  Delta_ML's x: 0,0  Delta_Renyi: -115.01
+
+
+precision: 73
+output_errors:
+ E(pi): -70.9708 E(2pi): -499 E(111): -70.9387 E(222): -70.9395
+Delta_SD: -71.005  Delta_KL: -117.983  Delta_RE: -65.3916  Delta_RE's x: 0,0  Delta_ML: -65.3916  Delta_ML's x: 0,0  Delta_Renyi: -117.983
+
+
+precision: 83
+output_errors:
+ E(pi): -86.1356 E(2pi): -499 E(111): -88.2513 E(222): -88.1473
+Delta_SD: -85.3074  Delta_KL: -117.983  Delta_RE: -81.2091  Delta_RE's x: 0,0  Delta_ML: -81.2091  Delta_ML's x: 0,0  Delta_Renyi: -117.983
+
+
+precision: 93
+output_errors:
+ E(pi): -92.068 E(2pi): -499 E(111): -92.0835 E(222): -92.0741
+Delta_SD: -92.1257  Delta_KL: -117.983  Delta_RE: -86.5122  Delta_RE's x: 0,0  Delta_ML: -86.5122  Delta_ML's x: 0,0  Delta_Renyi: -117.983
+
+
+precision: 103
+output_errors:
+ E(pi): -99.6769 E(2pi): -499 E(111): -99.6528 E(222): -99.6528
+Delta_SD: -99.7029  Delta_KL: -117.983  Delta_RE: -94.0895  Delta_RE's x: 0,0  Delta_ML: -94.0895  Delta_ML's x: 0,0  Delta_Renyi: -117.983
+
+
+precision: 113
+output_errors:
+ E(pi): -112.37 E(2pi): -499 E(111): -112.314 E(222): -112.312
+Delta_SD: -112.381  Delta_KL: -117.983  Delta_RE: -106.783  Delta_RE's x: 0,0  Delta_ML: -106.783  Delta_ML's x: 0,0  Delta_Renyi: -117.983
+
+
+precision: 123
+output_errors:
+ E(pi): -119.406 E(2pi): -499 E(111): -120.114 E(222): -120.176
+Delta_SD: -118.883  Delta_KL: -117.983  Delta_RE: -117.165  Delta_RE's x: 0,0  Delta_ML: -117.165  Delta_ML's x: 0,0  Delta_Renyi: -117.983
+
+
+precision: 133
+output_errors:
+ E(pi): -119.658 E(2pi): -499 E(111): -120.527 E(222): -120.609
+Delta_SD: -118.983  Delta_KL: -117.983  Delta_RE: -117.983  Delta_RE's x: -42,42  Delta_ML: -117.983  Delta_ML's x: -42,42  Delta_Renyi: -117.983
+
+
+precision: 143
+output_errors:
+ E(pi): -119.658 E(2pi): -499 E(111): -120.527 E(222): -120.609
+Delta_SD: -118.983  Delta_KL: -117.983  Delta_RE: -117.983  Delta_RE's x: -74,74  Delta_ML: -117.983  Delta_ML's x: -74,74  Delta_Renyi: -117.983
+
+
+precision: 153
+output_errors:
+ E(pi): -119.658 E(2pi): -499 E(111): -120.527 E(222): -120.609
+Delta_SD: -118.983  Delta_KL: -117.983  Delta_RE: -117.983  Delta_RE's x: -98,98  Delta_ML: -117.983  Delta_ML's x: -98,98  Delta_Renyi: -117.983
+
+
+precision: 163
+output_errors:
+ E(pi): -119.658 E(2pi): -499 E(111): -120.527 E(222): -120.609
+Delta_SD: -118.983  Delta_KL: -117.983  Delta_RE: -117.983  Delta_RE's x: 0,0  Delta_ML: -117.983  Delta_ML's x: 0,0  Delta_Renyi: -117.983
+
+
+precision: 173
+output_errors:
+ E(pi): -119.658 E(2pi): -499 E(111): -120.527 E(222): -120.609
+Delta_SD: -118.983  Delta_KL: -117.983  Delta_RE: -117.983  Delta_RE's x: -93,93  Delta_ML: -117.983  Delta_ML's x: -93,93  Delta_Renyi: -117.983
+
+
+precision: 183
+output_errors:
+ E(pi): -119.658 E(2pi): -499 E(111): -120.527 E(222): -120.609
+Delta_SD: -118.983  Delta_KL: -117.983  Delta_RE: -117.983  Delta_RE's x: -58,58  Delta_ML: -117.983  Delta_ML's x: -58,58  Delta_Renyi: -117.983
+
+
+precision: 193
+output_errors:
+ E(pi): -119.658 E(2pi): -499 E(111): -120.527 E(222): -120.609
+Delta_SD: -118.983  Delta_KL: -117.983  Delta_RE: -117.983  Delta_RE's x: -42,42  Delta_ML: -117.983  Delta_ML's x: -42,42  Delta_Renyi: -117.983
+
+
+t: 7 epsilon_t: -221.086
+precision: 53
+output_errors:
+ E(pi): -52.1883 E(2pi): -499 E(111): -52.0889 E(222): -52.0945
+Delta_SD: -52.1421  Delta_KL: -99.6384  Delta_RE: -46.5286  Delta_RE's x: 0,0  Delta_ML: -46.5286  Delta_ML's x: 0,0  Delta_Renyi: -98.6384
+
+
+precision: 63
+output_errors:
+ E(pi): -60.411 E(2pi): -499 E(111): -60.4138 E(222): -60.4116
+Delta_SD: -60.4248  Delta_KL: -116.206  Delta_RE: -54.8114  Delta_RE's x: 0,0  Delta_ML: -54.8114  Delta_ML's x: 0,0  Delta_Renyi: -115.206
+
+
+precision: 73
+output_errors:
+ E(pi): -70.9708 E(2pi): -499 E(111): -70.9387 E(222): -70.9395
+Delta_SD: -71.005  Delta_KL: -137.366  Delta_RE: -65.3916  Delta_RE's x: 0,0  Delta_ML: -65.3916  Delta_ML's x: 0,0  Delta_Renyi: -136.366
+
+
+precision: 83
+output_errors:
+ E(pi): -86.1356 E(2pi): -499 E(111): -88.2513 E(222): -88.1473
+Delta_SD: -85.3074  Delta_KL: -168.312  Delta_RE: -81.2091  Delta_RE's x: 0,0  Delta_ML: -81.2091  Delta_ML's x: 0,0  Delta_Renyi: -167.312
+
+
+precision: 93
+output_errors:
+ E(pi): -92.068 E(2pi): -499 E(111): -92.0835 E(222): -92.0741
+Delta_SD: -92.1257  Delta_KL: -179.605  Delta_RE: -86.5122  Delta_RE's x: 0,0  Delta_ML: -86.5122  Delta_ML's x: 0,0  Delta_Renyi: -178.605
+
+
+precision: 103
+output_errors:
+ E(pi): -99.6769 E(2pi): -499 E(111): -99.6528 E(222): -99.6528
+Delta_SD: -99.7029  Delta_KL: -194.763  Delta_RE: -94.0895  Delta_RE's x: 0,0  Delta_ML: -94.0895  Delta_ML's x: 0,0  Delta_Renyi: -193.763
+
+
+precision: 113
+output_errors:
+ E(pi): -112.378 E(2pi): -499 E(111): -112.399 E(222): -112.392
+Delta_SD: -112.441  Delta_KL: -220.226  Delta_RE: -106.828  Delta_RE's x: 0,0  Delta_ML: -106.828  Delta_ML's x: 0,0  Delta_Renyi: -219.23
+
+
+precision: 123
+output_errors:
+ E(pi): -122.058 E(2pi): -499 E(111): -122.167 E(222): -122.166
+Delta_SD: -122.176  Delta_KL: -227.639  Delta_RE: -116.562  Delta_RE's x: 0,0  Delta_ML: -116.562  Delta_ML's x: 0,0  Delta_Renyi: -227.639
+
+
+precision: 133
+output_errors:
+ E(pi): -130.421 E(2pi): -499 E(111): -130.423 E(222): -130.422
+Delta_SD: -130.439  Delta_KL: -227.639  Delta_RE: -124.826  Delta_RE's x: 0,0  Delta_ML: -124.826  Delta_ML's x: 0,0  Delta_Renyi: -227.639
+
+
+precision: 143
+output_errors:
+ E(pi): -140.679 E(2pi): -499 E(111): -140.694 E(222): -140.691
+Delta_SD: -140.716  Delta_KL: -227.639  Delta_RE: -135.103  Delta_RE's x: 0,0  Delta_ML: -135.103  Delta_ML's x: 0,0  Delta_Renyi: -227.639
+
+
+precision: 153
+output_errors:
+ E(pi): -150.172 E(2pi): -499 E(111): -150.168 E(222): -150.167
+Delta_SD: -150.192  Delta_KL: -227.639  Delta_RE: -144.579  Delta_RE's x: 0,0  Delta_ML: -144.579  Delta_ML's x: 0,0  Delta_Renyi: -227.639
+
+
+precision: 163
+output_errors:
+ E(pi): -161.056 E(2pi): -499 E(111): -160.992 E(222): -160.996
+Delta_SD: -161.058  Delta_KL: -227.639  Delta_RE: -155.445  Delta_RE's x: 0,0  Delta_ML: -155.445  Delta_ML's x: 0,0  Delta_Renyi: -227.639
+
+
+precision: 173
+output_errors:
+ E(pi): -172.419 E(2pi): -499 E(111): -172.531 E(222): -172.525
+Delta_SD: -172.449  Delta_KL: -227.639  Delta_RE: -166.836  Delta_RE's x: 0,0  Delta_ML: -166.836  Delta_ML's x: 0,0  Delta_Renyi: -227.639
+
+
+precision: 183
+output_errors:
+ E(pi): -181.215 E(2pi): -499 E(111): -181.214 E(222): -181.21
+Delta_SD: -181.245  Delta_KL: -227.639  Delta_RE: -175.631  Delta_RE's x: 0,0  Delta_ML: -175.631  Delta_ML's x: 0,0  Delta_Renyi: -227.639
+
+
+precision: 193
+output_errors:
+ E(pi): -195.689 E(2pi): -499 E(111): -195.352 E(222): -195.355
+Delta_SD: -194.912  Delta_KL: -227.639  Delta_RE: -189.881  Delta_RE's x: 0,0  Delta_ML: -189.881  Delta_ML's x: 0,0  Delta_Renyi: -227.639
+
+

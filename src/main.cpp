@@ -40,7 +40,7 @@ ofstream out("result.txt");
 
 int Renyi_a =  2;
 
-int EX1 = 1; //a=11,b=1,s1=s2=19.53sqrt(2pi),t=3-8, pre=53-200 (\Delta_{SD} and \Delta_{KL})
+int EX1 = 0; //a=11,b=1,s1=s2=19.53sqrt(2pi),t=3-8, pre=53-200 (\Delta_{SD} and \Delta_{KL})
 
 int EX2 = 0; //a=4,b=3,s1=s2=34,t=3-8,pre=53-200 (\Delta_{RE} and \Delta_{ML})
 
@@ -50,6 +50,9 @@ int EX4 = 0; //a=4,b=3,s1=s2=34,t=6,pre=53-200 ([MW17]: pre=60, \Delta_{ML}\le 2
 
 int EX5 = 0; //a=11,b=1,s1=s2=19.53sqrt(2pi),t=3,5,7,  Renyi_a=2,200 ,pre=53-200 (  \Delta_{RD} )
 
+int EX6 = 1; // rejecting
+
+int EX7 = 1; // reverse CDT
 
 RR Gfun(RR x, RR c, RR s) {
 	return exp(-1 * PI* pow(abs((x - c) / s), to_RR(2)));
@@ -61,7 +64,25 @@ RR etatoep(RR t) {
 
 }
 
+RR deltae(RR t, RR* gau, int center, int width) {
 
+	RR de=to_RR(0);
+	de.SetPrecision(max_precision);
+
+	for (int i = 0; i <=  width; i++) {
+		if(gau[i]>to_RR(0))
+			de += cos(t*(i - center))*gau[i];
+
+
+	}
+
+	return de;
+
+
+}
+
+
+ 
 RR* init_Gaussian(RR s, int * ra, RR t) {
 
 	int range;
@@ -106,6 +127,61 @@ RR* init_Gaussian(RR s, int * ra, RR t) {
 	return gau;
 }
 
+
+RR* init_Gaussian2(RR s, int * ra, RR t) {
+
+	int range;
+	conv(range, ceil(s * t));
+	//cout << range << endl;
+	RR* gau = new RR[2 * range + 1];
+	memset(gau, 0, (2 * range + 1) * sizeof(RR));
+	RR trans;
+
+	trans.SetPrecision(max_precision);
+	PI = ComputePi_RR();
+
+	RR sum = to_RR(0);
+	for (int i = 0; i <= 2 * range; i++) {
+
+		RR tmp = Gfun(to_RR(i), to_RR(range), s);
+		sum += tmp;
+		gau[i] = tmp;
+
+	}
+
+	for (int i = 0; i <= 2 * range; i++) {
+		gau[i] = gau[i] / sum;
+	}
+
+	//convert precision
+	trans.SetPrecision(precision);
+	sum = to_RR(0);
+	for (int i = 0; i <= 2 * range; i++) {
+
+		trans = to_RR(gau[i]);
+		gau[i] = trans;
+		sum += gau[i];
+	}
+	for (int i = 0; i <= 2 * range; i++) {
+		gau[i] = gau[i] / sum;
+	}
+	//cout << sum << endl;
+	//system("pause");
+
+	trans.SetPrecision(max_precision);
+	gau[range] = to_RR(1);
+	for (int i = 0; i <= 2 * range; i++) {
+		if (i != range) {
+			gau[range] -= gau[i];
+		}
+	}
+
+
+	ra[0] = 2 * range;
+	return gau;
+}
+
+
 RR* eres_dx(RR* d1, RR* d2, int a, int b, RR s1, RR s2, int num, int* ra, RR t) {
 	RR s_new = sqrt(a*a*s1*s1 + b*b*s2*s2);
 	int range;
@@ -119,7 +195,7 @@ RR* eres_dx(RR* d1, RR* d2, int a, int b, RR s1, RR s2, int num, int* ra, RR t) 
 	RR trans;
 	trans.SetPrecision(max_precision);
 
-	RR ty = to_RR(0);
+
 
 	for (int i = 0; i <= num; i++)
 
@@ -171,6 +247,13 @@ void compare(RR* gau, RR* gc, int rc,int r1) {
 
 	RR tt1 = to_RR(0);
 	RR tt2 = to_RR(0);
+
+	
+
+
+
+
+
 	for (int i = 0; i <= rc; i++) {
 		ci = r1 / 2 - rc / 2 + i;
 		//cout << r1 << " " << rc << " "<<ci<<endl;
@@ -206,10 +289,10 @@ void compare(RR* gau, RR* gc, int rc,int r1) {
 
 	if (outputfile == 1)
 	{
-		out << "Delta_SD: " << log(d_sd) / log(2) << "  Delta_KL: " << log(abs(d_kl)) / log(2)    << "  Delta_RE: " << log(d_re) / log(2) << "  Delta_RE's x: " << ren - rc / 2 << "," << (ren2 - rc / 2) << "  Delta_ML: " << log(d_ml) / log(2) << "  Delta_ML's x: " << mln - rc / 2 << "," << (mln2 - rc / 2) << "  Delta_Renyi: "<< log(abs(to_RR(1)-pow(d_ry,to_RR(1)/(to_RR(Renyi_a-1)))))/log(to_RR(2)) << endl;
+		out << "Delta_SD: " << log(d_sd) / log(2) << "  Delta_KL: " << log(abs(d_kl)) / log(2)    << "  Delta_RE: " << log(d_re) / log(2) << "  Delta_RE's x: " << ren - rc / 2 << "," << (ren2 - rc / 2) << "  Delta_ML: " << log(d_ml) / log(2) << "  Delta_ML's x: " << mln - rc / 2 << "," << (mln2 - rc / 2) << "  Delta_Renyi: "<< log(abs(to_RR(1)-pow(d_ry,to_RR(1)/(to_RR(Renyi_a-1)))))/log(to_RR(2))   << endl;
 		out << endl;
 	}
-	cout << "Delta_SD: " << log(d_sd) / log(2) << "  Delta_KL: " << log(abs(d_kl)) / log(2) << "  Delta_KLL: " << log(abs(d_kll)) / log(2)   << "  Delta_RE: " << log(d_re) / log(2) << "  Delta_RE's x: " << ren - rc / 2 << "," << (ren2 - rc / 2) << "  Delta_ML: " << log(d_ml) / log(2) << "  Delta_ML's x: " << mln - rc / 2 << "," << (mln2 - rc / 2) << "  Delta_Renyi: " << log(abs(to_RR(1) - pow(d_ry, to_RR(1) / (to_RR(Renyi_a - 1))))) / log(to_RR(2))   << endl;
+	cout << "Delta_SD: " << log(d_sd) / log(2) << "  Delta_KL: " << log(abs(d_kl)) / log(2) << "  Delta_KLL: " << log(abs(d_kll)) / log(2)   << "  Delta_RE: " << log(d_re) / log(2) << "  Delta_RE's x: " << ren - rc / 2 << "," << (ren2 - rc / 2) << "  Delta_ML: " << log(d_ml) / log(2) << "  Delta_ML's x: " << mln - rc / 2 << "," << (mln2 - rc / 2) << "  Delta_Renyi: " << log(abs(to_RR(1) - pow(d_ry, to_RR(1) / (to_RR(Renyi_a - 1))))) / log(to_RR(2))  << endl;
 
 	
 	cout << endl;
@@ -273,7 +356,7 @@ int main() {
 		s2 = sqrt(PI / log(to_RR(2)) / to_RR(a*a + b*b))*to_RR(254);
 		s_new = sqrt(PI / log(to_RR(2))  )*to_RR(254);
 
-		for (int j = 300; j <= 800; j += 10) {
+		for (int j = 535; j <= 800; j += 10) {
 
 			t = to_RR(j/100.0);
 
@@ -292,7 +375,7 @@ int main() {
 			
 			//gi1 = init_Gaussian(s1, &ri1, t);
 
-			for (int i = 53; i <= 200; i+=1 ) {
+			for (int i = 72; i <= 200; i+=10 ) {
 
 
 				precision = i;
@@ -301,7 +384,12 @@ int main() {
 				g1 = init_Gaussian(s1, &r1, t);
 				g2 = init_Gaussian(s2, &r2, t);
 
-				 
+				/*RR ty = to_RR(0);
+				for (int i = 0; i < r1; i++)
+					ty += g1[i];
+
+				cout << ty <<" "<<log(abs(ty-to_RR(1)))/log(2)<< endl;
+				system("pause");*/
 				//cout << log(g1[r1 / 2]) / log(2) << endl;
 				g3 = eres_dx(g1, g2, a, b, s1, s2, r1, &r3, t);
 
@@ -702,6 +790,223 @@ int main() {
 				delete[] g1;
 				delete[] g2;
 				delete[] g3;
+
+
+				cout << endl;
+				if (outputfile == 1) {
+					out << endl;
+				}
+			}
+			delete[] gc;
+
+
+		}
+
+
+	}
+
+
+
+	if (EX6 == 1) {
+		// Experiment 6    s1 =19.53sqrt(2pi),t=3,5,7,  E_t=\pi, 2\pi   (  \Delta_{KL} )
+
+
+
+		cout << "Experiment 6: " << endl;
+		if (outputfile == 1) {
+			out << "Experiment 6: " << endl;
+
+		}
+
+
+		pre.SetPrecision(max_precision);
+
+		PI = ComputePi_RR();
+		double po;
+		conv(po, PI);
+
+		
+		a = 11;
+		b = 1;
+
+		 
+		s1 = sqrt(PI / log(to_RR(2)) / to_RR(a*a + b*b))*to_RR(254);
+		
+		
+		RR rr1, rr2, rr3, rr4, rr5, rr6, rr7, rr8;
+		
+
+		for (int j = 300; j <= 800; j += 200) {
+
+			t = to_RR(j / 100.0);
+
+			precision = max_precision;
+			gc = init_Gaussian(s1, &rc, to_RR(10));
+			cout << t << " epsilon_t: " << log(etatoep(t)) / log(2) << endl;
+
+			rr1 = deltae(PI, gc, rc / 2, rc);
+			rr2 = deltae(2 * PI, gc, rc / 2, rc);
+			rr5 = deltae(to_RR(111), gc, rc / 2, rc);
+			rr6 = deltae(to_RR(222), gc, rc / 2, rc);
+
+
+			
+
+			if (outputfile == 1) {
+				out << "t: " << t << " epsilon_t: " << log(etatoep(t)) / log(2) << endl;
+				//cout << "input_errors:" << endl;
+			}
+
+			//precision = max_precision;
+
+			//gi1 = init_Gaussian(s1, &ri1, t);
+
+			for (int i = 53; i <= 200; i += 10) {
+
+
+				precision = i;
+
+
+				g1 = init_Gaussian(s1, &r1, t);
+				
+				rr3 = deltae(PI, g1, r1 / 2, r1);
+				rr4 = deltae(2 * PI, g1, r1 / 2, r1);
+
+				rr7 = deltae(to_RR(111), g1, r1 / 2, r1);
+				rr8 = deltae(to_RR(222), g1, r1 / 2, r1);
+
+				if (outputfile == 1) {
+					out << "precision: " << precision << endl;
+					//out << "input_errors:" << endl;
+				}
+				cout << "precision: " << precision << endl;
+				//cout << "input_errors:" << endl;
+
+				//compare(gi1, g1, ri1);
+
+				cout << "output_errors:" << endl;
+
+				cout << " E(\pi): " << log(abs(rr1 - rr3)) / log(2) << " E(2\pi): " << log(abs(rr2 - rr4)) / log(2) << " E(111): " << log(abs(rr5 - rr7)) / log(2) << " E(222): " << log(abs(rr6 - rr8)) / log(2) <<endl ;
+				if (outputfile == 1) {
+					out << "output_errors:" << endl;
+
+					 out << " E(\pi): " << log(abs(rr1 - rr3)) / log(2) << " E(2\pi): " << log(abs(rr2 - rr4)) / log(2) << " E(111): " << log(abs(rr5 - rr7)) / log(2) << " E(222): " << log(abs(rr6 - rr8)) / log(2) << endl;
+				}
+				 
+
+				compare(g1, gc, r1, rc);
+		 
+				//system("pause");
+
+
+				delete[] g1;
+			 
+
+				cout << endl;
+				if (outputfile == 1) {
+					out << endl;
+				}
+			}
+			delete[] gc;
+
+
+		}
+
+
+	}
+
+	if (EX7 == 1) {
+		// Experiment 7    s1 =19.53sqrt(2pi),t=3,5,7,  E_t=\pi, 2\pi   (  \Delta_{KL} )
+
+
+
+		cout << "Experiment 7: " << endl;
+		if (outputfile == 1) {
+			out << "Experiment 7: " << endl;
+
+		}
+
+
+		pre.SetPrecision(max_precision);
+
+		PI = ComputePi_RR();
+		double po;
+		conv(po, PI);
+
+
+		a = 11;
+		b = 1;
+
+
+		s1 = sqrt(PI / log(to_RR(2)) / to_RR(a*a + b*b))*to_RR(254);
+
+
+		RR rr1, rr2, rr3, rr4, rr5, rr6, rr7, rr8;
+
+
+		for (int j = 300; j <= 800; j += 200) {
+
+			t = to_RR(j / 100.0);
+
+			precision = max_precision;
+			gc = init_Gaussian (s1, &rc, to_RR(10));
+			cout << t << " epsilon_t: " << log(etatoep(t)) / log(2) << endl;
+
+			rr1 = deltae(PI, gc, rc / 2, rc);
+			rr2 = deltae(2 * PI, gc, rc / 2, rc);
+			rr5 = deltae(to_RR(111), gc, rc / 2, rc);
+			rr6 = deltae(to_RR(222), gc, rc / 2, rc);
+
+
+
+
+			if (outputfile == 1) {
+				out << "t: " << t << " epsilon_t: " << log(etatoep(t)) / log(2) << endl;
+				//cout << "input_errors:" << endl;
+			}
+
+			//precision = max_precision;
+
+			//gi1 = init_Gaussian(s1, &ri1, t);
+
+			for (int i = 53; i <= 200; i += 10) {
+
+
+				precision = i;
+
+
+				g1 = init_Gaussian2(s1, &r1, t);
+
+				rr3 = deltae(PI, g1, r1 / 2, r1);
+				rr4 = deltae(2 * PI, g1, r1 / 2, r1);
+				rr7 = deltae(to_RR(111), g1, r1 / 2, r1);
+				rr8 = deltae(to_RR(222), g1, r1 / 2, r1);
+
+				if (outputfile == 1) {
+					out << "precision: " << precision << endl;
+					//out << "input_errors:" << endl;
+				}
+				cout << "precision: " << precision << endl;
+				//cout << "input_errors:" << endl;
+
+				//compare(gi1, g1, ri1);
+
+				cout << "output_errors:" << endl;
+
+				cout << " E(\pi): " << log(abs(rr1 - rr3)) / log(2) << " E(2\pi): " << log(abs(rr2 - rr4)) / log(2) << " E(111): " << log(abs(rr5 - rr7)) / log(2) << " E(222): " << log(abs(rr6 - rr8)) / log(2) << endl;
+				if (outputfile == 1) {
+					out << "output_errors:" << endl;
+
+					out << " E(\pi): " << log(abs(rr1 - rr3)) / log(2) << " E(2\pi): " << log(abs(rr2 - rr4)) / log(2) << " E(111): " << log(abs(rr5 - rr7)) / log(2) << " E(222): " << log(abs(rr6 - rr8)) / log(2) << endl;
+				}
+
+
+				compare(g1, gc, r1, rc);
+
+				//system("pause");
+
+
+				delete[] g1;
 
 
 				cout << endl;
